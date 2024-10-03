@@ -1,0 +1,235 @@
+/* .leaguepoints:before {
+    content: url('../public/img/game_icon_leaguepoints.png');
+}
+
+.bountyhunterhunter:before {
+    content: url('../public/img/game_icon_bountyhunterhunter.png');
+}
+
+.bountyhunterrogue:before {
+    content: url('../public/img/game_icon_bountyhunterrogue.png');
+}
+
+.cluescrollsall:before {
+    content: url('../public/img/game_icon_cluescrollsall.png');
+}
+
+.cluescrollsbeginner:before {
+    content: url('../public/img/game_icon_cluescrollsbeginner.png');
+}
+
+.cluescrollseasy:before {
+    content: url('../public/img/game_icon_cluescrollseasy.png');
+}
+
+.cluescrollsmedium:before {
+    content: url('../public/img/game_icon_cluescrollsmedium.png');
+}
+
+.cluescrollshard:before {
+    content: url('../public/img/game_icon_cluescrollshard.png');
+}
+
+.cluescrollselite:before {
+    content: url('../public/img/game_icon_cluescrollselite.png');
+}
+
+.cluescrollsmaster:before {
+    content: url('../public/img/game_icon_cluescrollsmaster.png');
+}
+
+.lmsrank:before {
+    content: url('../public/img/game_icon_lmsrank.png');
+}
+
+.pvparenarank:before {
+    content: url('../public/img/game_icon_pvparenarank.png');
+}
+
+.soulwarszeal:before {
+    content: url('../public/img/game_icon_soulwarszeal.png');
+}
+
+.riftsclosed:before {
+    content: url('../public/img/game_icon_riftsclosed.png');
+}
+
+.abyssalsire:before {
+    content: url('../public/img/game_icon_abyssalsire.png');
+}
+
+.alchemicalhydra:before {
+    content: url('../public/img/game_icon_alchemicalhydra.png');
+}
+
+.bryophyta:before {
+    content: url('../public/img/game_icon_bryophyta.png');
+}
+
+.callisto:before {
+    content: url('../public/img/game_icon_callisto.png');
+}
+
+.cerberus:before {
+    content: url('../public/img/game_icon_cerberus.png');
+}
+
+.chambersofxericchallengemode:before {
+    content: url('../public/img/game_icon_chambersofxericchallengemode.png');
+}
+
+.chaoselemental:before {
+    content: url('../public/img/game_icon_chaoselemental.png');
+}
+
+.chaosfanatic:before {
+    content: url('../public/img/game_icon_chaosfanatic.png');
+}
+
+.commanderzilyana:before {
+    content: url('../public/img/game_icon_commanderzilyana.png');
+}
+
+.corporealbeast:before {
+    content: url('../public/img/game_icon_corporealbeast.png');
+}
+
+.crazyarchaeologist:before {
+    content: url('../public/img/game_icon_crazyarchaeologist.png');
+}
+
+.dagannothprime:before {
+    content: url('../public/img/game_icon_dagannothprime.png');
+}
+
+.dagannothrex:before {
+    content: url('../public/img/game_icon_dagannothrex.png');
+}
+
+.dagannothsupreme:before {
+    content: url('../public/img/game_icon_dagannothsupreme.png');
+}
+
+.derangedarchaeologist:before {
+    content: url('../public/img/game_icon_derangedarchaeologist.png');
+}
+
+.generalgraardor:before {
+    content: url('../public/img/game_icon_generalgraardor.png');
+}
+
+.giantmole:before {
+    content: url('../public/img/game_icon_giantmole.png');
+}
+
+.grotesqueguardians:before {
+    content: url('../public/img/game_icon_grotesqueguardians.png');
+}
+
+.hespori:before {
+    content: url('../public/img/game_icon_hespori.png');
+}
+
+.kalphitequeen:before {
+    content: url('../public/img/game_icon_kalphitequeen.png');
+}
+
+.kingblackdragon:before {
+    content: url('../public/img/game_icon_kingblackdragon.png');
+}
+
+.kraken:before {
+    content: url('../public/img/game_icon_kraken.png');
+}
+
+.kreearra:before {
+    content: url('../public/img/game_icon_kreearra.png');
+}
+
+.kriltsutsaroth:before {
+    content: url('../public/img/game_icon_kriltsutsaroth.png');
+}
+
+.mimic:before {
+    content: url('../public/img/game_icon_mimic.png');
+}
+
+.nex:before {
+    content: url('../public/img/game_icon_nex.png');
+}
+
+.nightmare:before {
+    content: url('../public/img/game_icon_nightmare.png');
+}
+
+.phosanisnightmare:before {
+    content: url('../public/img/game_icon_phosanisnightmare.png');
+}
+
+.obor:before {
+    content: url('../public/img/game_icon_obor.png');
+}
+
+.sarachnis:before {
+    content: url('../public/img/game_icon_sarachnis.png');
+}
+
+.scorpia:before {
+    content: url('../public/img/game_icon_scorpia.png');
+}
+
+.skotizo:before {
+    content: url('../public/img/game_icon_skotizo.png');
+}
+
+.tempoross:before {
+    content: url('../public/img/game_icon_skotizo.png');
+}
+
+.thegauntlet:before {
+    content: url('../public/img/game_icon_thegauntlet.png');
+}
+
+.thecorruptedgauntlet:before {
+    content: url('../public/img/game_icon_thecorruptedgauntlet.png');
+}
+
+.theatreofbloodhardmode:before {
+    content: url('../public/img/game_icon_theatreofbloodhardmode.png');
+}
+
+.thermonuclearsmokedevil:before {
+    content: url('../public/img/game_icon_thermonuclearsmokedevil.png');
+}
+
+.tzkalzuk:before {
+    content: url('../public/img/game_icon_tzkalzuk.png');
+}
+
+.tztokjad:before {
+    content: url('../public/img/game_icon_tztokjad.png');
+}
+
+.venenatis:before {
+    content: url('../public/img/game_icon_venenatis.png');
+}
+
+.vetion:before {
+    content: url('../public/img/game_icon_vetion.png');
+}
+
+.vorkath:before {
+    content: url('../public/img/game_icon_vorkath.png');
+}
+
+.wintertodt:before {
+    content: url('../public/img/game_icon_wintertodt.png');
+}
+
+.zalcano:before {
+    content: url('../public/img/game_icon_zalcano.png');
+}
+
+.zulrah:before {
+    content: url('../public/img/game_icon_zulrah.png');
+} */

@@ -1,0 +1,2864 @@
+[
+    {
+        "id": 0,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "Blue Flower",
+        "line2": "Purple Flower",
+        "line3": "Red Flower",
+        "line4": "Orange Flower",
+        "line5": "Next",
+        "next": 1,
+        "npcId": -1
+    },
+    {
+        "id": 1,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "Rainbow Flower",
+        "line2": "Pastel Flower",
+        "line3": "Black Flower",
+        "line4": "White Flower",
+        "line5": "Next",
+        "next": -1,
+        "npcId": -1
+    },
+
+    {
+        "id": 2,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "Yellow",
+        "line2": "Null",
+        "line3": "Null",
+        "line4": "Null",
+        "line5": "Back",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 3,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Shop I",
+        "line2": "Shop II",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 4,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Dismiss Familiar",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 5,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "I'd like to know how many funds I have in total",
+        "line2": "I'd like to teleport to the Member's Zone",
+        "line3": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 6,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Member's Store I",
+        "line2": "Member's Store II",
+        "line3": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 9,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 2,
+        "line1": "You do not have a bank PIN set.",
+        "line2": "Would you like to set one?",
+        "next": 10,
+        "npcId": 494
+    },
+    {
+        "id": 10,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Configure bank PIN.",
+        "line2": "Cancel.",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 11,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 2,
+        "line1": "You currently have a bank PIN set.",
+        "line2": "Would you like to delete it?",
+        "next": 12,
+        "npcId": 494
+    },
+    {
+        "id": 12,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Delete bank PIN.",
+        "line2": "Cancel.",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 13,
+        "type": "OPTION",
+        "lines": 4,
+        "line1": "Vote Rewards Store",
+        "line2": "Browse Loyalty Titles",
+        "line3": "Reset my Loyalty Title",
+        "line4": "Loyalty Rewards Store",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 14,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 2,
+        "line1": "Lottery! Lottery over here!",
+        "line2": "Come get rich!!! Lotteryyy!!",
+        "next": 15,
+        "npcId": 4249
+    },
+    {
+        "id": 15,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "Tell me more..",
+        "line2": "I'd like to enter!",
+        "line3": "How much is the pot at right now?",
+        "line4": "Who won the lottery last week?",
+        "line5": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 16,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 4,
+        "line1": "It costs 1.000.000 coins to enter the lottery.",
+        "line2": "Every Friday, one of the contesters will win a portion",
+        "line3": "of the pot of gold and another lottery will begin. If",
+        "line4": "you have any questions, feel free to ask other contesters.",
+        "next": 15,
+        "npcId": 4249
+    },
+    {
+        "id": 17,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 3,
+        "line1": "You have already entered this week's",
+        "line2": "lottery.",
+        "line3": "The winner is announced every Friday.",
+        "next": 15,
+        "npcId": 4249
+    },
+    {
+        "id": 18,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 4,
+        "line1": "You have entered this week's",
+        "line2": "lottery.",
+        "line3": "The winner is announced every Friday.",
+        "line4": "Good luck!",
+        "next": 15,
+        "npcId": 4249
+    },
+    {
+        "id": 19,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Sell Bounty Hunter Artifacts for Coins",
+        "line2": "Sell Bounty Hunter Artifacts for Wildy Points",
+        "line3": "Wildy Point Shop",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 20,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "Top Nobility (Normal)",
+        "line2": "Top Nobility (Ironman)",
+        "line3": "Top Nobility (HCIM)",
+        "line4": "Top Nobility (UIM)",
+		"line5": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 21,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "Edgeville Wilderness Ditch",
+        "line2": "Edgeville West Dragons (Level 10 Wilderness)",
+        "line3": "Chaos Altar (Level 13 Wilderness)",
+        "line4": "Edgeville East Dragons (Level 23 Wilderness)",
+        "line5": "[MULTI] Bandit Camp (Level 23 Wilderness) [MULTI]",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 22,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "Edgeville Dungeon",
+        "line2": "Chaos Tunnels",
+        "line3": "Brimhaven Dungeon",
+        "line4": "Taverly Dungeon",
+        "line5": "Next Page",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 23,
+        "type": "OPTION",
+        "lines": 4,
+        "line1": "Godwars Dungeon",
+        "line2": "Strykewyrm Cavern",
+		"line3": "Ancient Cavern",
+        "line4": "Previous Page",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 24,
+        "type": "OPTION",
+        "lines": 4,
+        "line1": "New Skiller Skill",
+        "line2": "New Skiller Task",
+		"line3": "I'd like to buy a Max Cape (2.5M)",
+		"line4": "I'm maxed and want to Prestige, resetting all of my levels to 1!",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 25,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "Warriors Guild",
+        "line2": "Pest Control",
+        "line3": "Duel Arena",
+        "line4": "Barrows",
+        "line5": "Next Page",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 26,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "Your task is to defend the Void knight while",
+        "line2": "closing all the portals. Good luck adventurer.",
+        "next": -1,
+        "npcId": 3782
+    },
+    {
+        "id": 27,
+        "type": "STATEMENT",
+        "lines": 1,
+        "line1": "You've found a hidden tunnel! Would you like to enter?",
+        "next": 28,
+        "npcId": -1
+    },
+    {
+        "id": 28,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Enter",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 29,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 3,
+        "line1": "Hello there.",
+        "line2": "I have the ability to help you with your",
+        "line3": "account settings. What would you like to do?",
+        "next": 30,
+        "npcId": 6139
+    },
+    {
+        "id": 30,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "Set email-address (used when recovering your password)",
+        "line2": "Set bank-pin (used when attempting to open the bank)",
+        "line3": "Change Gamemode",
+        "line4": "Change Password",
+        "line5": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 31,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 2,
+        "line1": "You already have a bank-pin.",
+        "line2": "Would you like to delete it?",
+        "next": 32,
+        "npcId": 6139
+    },
+    {
+        "id": 32,
+        "type": "OPTION",
+        "lines": 4,
+        "line1": "TzHaar Fight Cave",
+        "line2": "TzHaar Fight Pit",
+        "line3": "Graveyard Arena",
+        "line4": "Previous Page",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 33,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Teleport: Quest Location",
+        "line2": "Open Quest Log",
+        "line3": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 34,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Mini Quests",
+        "line2": "Minigames",
+        "line3": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 35,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Recipe For Disaster",
+        "line2": "Nomad's Requeim",
+        "line3": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 36,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 3,
+        "line1": "Look out, here comes TzTok-Jad!",
+        "line2": "You're on your own now JalYt, prepare to fight for",
+        "line3": "your life!",
+        "next": -1,
+        "npcId": 2617
+    },
+    {
+        "id": 37,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 2,
+        "line1": "You even defeated TzTok-Jad, I am most impressed!",
+        "line2": "Please take this gift as a reward.",
+        "next": -1,
+        "npcId": 2617
+    },
+    {
+        "id": 38,
+        "type": "NPC_STATEMENT",
+        "anim": "SAD",
+        "lines": 4,
+        "line1": "Please! You must help me, adventurer!",
+        "line2": "The Culinaromancer is back!",
+        "line3": "He's going to destroy Paescape!",
+        "line4": "Will you help defeat him?",
+        "next": 44,
+        "npcId": 3385
+    },
+    {
+        "id": 39,
+        "type": "PLAYER_STATEMENT",
+        "anim": "PLAIN_TALKING",
+        "lines": 1,
+        "line1": "How do I defeat the Culinaromancer?",
+        "next": 40,
+        "npcId": -1
+    },
+    {
+        "id": 40,
+        "type": "NPC_STATEMENT",
+        "anim": "PLAIN_TALKING",
+        "lines": 2,
+        "line1": "Enter the portal and gain the Culinaromancer's attention",
+        "line2": "by defeating all his servants.",
+        "next": 41,
+        "npcId": 3385
+    },
+    {
+        "id": 41,
+        "type": "NPC_STATEMENT",
+        "anim": "PLAIN_TALKING",
+        "lines": 2,
+        "line1": "Once you've defeated all of them, the Culinaromancer",
+        "line2": "will probably fight you himself. You must slay him!",
+        "next": 42,
+        "npcId": 3385
+    },
+    {
+        "id": 42,
+        "type": "NPC_STATEMENT",
+        "anim": "PLAIN_TALKING",
+        "lines": 2,
+        "line1": "Every servant that you defeat will unlock deeper access",
+        "line2": "into the Culinaromancer's chest which is located next to me.",
+        "next": 45,
+        "npcId": 3385
+    },
+    {
+        "id": 44,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Yes",
+        "line2": "No, maybe later.",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 45,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 2,
+        "line1": "Thank you for helping adventurer!",
+        "line2": "I wish you the best of luck!",
+        "next": -1,
+        "npcId": 3385
+    },
+    {
+        "id": 46,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 3,
+        "line1": "You did it!",
+        "line2": "You defeated the Culinaromancer!",
+        "line3": "Thank you so much!",
+        "next": 47,
+        "npcId": 3385
+    },
+    {
+        "id": 47,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 3,
+        "line1": "Remember that you now have full access",
+        "line2": "to the Culinaromancer's chest!",
+        "line3": "It is that thing next to me.",
+        "next": -1,
+        "npcId": 3385
+    },
+    {
+        "id": 48,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 2,
+        "line1": "Another adventurer!",
+        "line2": "Tell me, have you come to defeat me?",
+        "next": 49,
+        "npcId": 8528
+    },
+    {
+        "id": 49,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Yes, I have!",
+        "line2": "Uhm.. No sir.",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 50,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "Well then. I challenge you to a duel!",
+        "line2": "If I manage to defeat you, I will keep your items.",
+        "line3": "If you manage to defeat me, I will grant you access",
+        "line4": "to my store. Do you wish to begin?",
+        "next": 51,
+        "npcId": 8528
+    },
+    {
+        "id": 51,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "No, not yet.",
+        "line2": "Yes, let's go.",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 53,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 2,
+        "line1": "You fought well.",
+        "line2": "You have gained access to view my shop.",
+        "next": -1,
+        "npcId": 8528
+    },
+    {
+        "id": 54,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Teleport: Puro Puro",
+        "line2": "Teleport: Karamja - Trap area (Level 23 Hunter Required)",
+        "line3": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 55,
+        "type": "OPTION",
+        "lines": 4,
+        "line1": "Teleport: Gnome Course",
+        "line2": "Teleport: Barbarian Outpost Course (35 Agility)",
+        "line3": "Teleport: Wilderness Course (55 Agility, 50 Wilderness)",
+        "line4": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 56,
+        "type": "NPC_STATEMENT",
+        "anim": "ANGRY",
+        "lines": 2,
+        "line1": "Hey you! Yes, you!",
+        "line2": "Finish the whole course next time!",
+        "next": -1,
+        "npcId": 437
+    },
+    {
+        "id": 57,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 2,
+        "line1": "Good job on completing the course!",
+        "line2": "Take these tickets as reward.",
+        "next": -1,
+        "npcId": 437
+    },
+    {
+        "id": 58,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 2,
+        "line1": "Keep going friend! You're doing great.",
+        "line2": "Take these tickets as reward and motivation!",
+        "next": -1,
+        "npcId": 437
+    },
+    {
+        "id": 59,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 3,
+        "line1": "Good job! ",
+        "line2": "Moving through pipes and climbing trees is not easy!",
+        "line3": "Take these tickets as reward!",
+        "next": -1,
+        "npcId": 437
+    },
+    {
+        "id": 60,
+        "type": "OPTION",
+        "lines": 4,
+        "line1": "Create a clan chat",
+        "line2": "Edit my clan chat",
+		"line3": "Delete my clan chat",
+        "line4": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 61,
+        "type": "OPTION",
+        "lines": 4,
+        "line1": "Select Slayer Master",
+        "line2": "PaePoints from each Slayer Master",
+        "line3": "PaePoint task multiplier",
+        "line4": "Teleport to Slayer Master",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 62,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "Vannaka",
+        "line2": "Duradel (Level 40 Slayer Required)",
+        "line3": "Kuradel (Level 60 Slayer Required)",
+        "line4": "Sumona (Level 80 Slayer Required)",
+        "line5": "Evil Dave (Wilderness)",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 63,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Buy Shards (25 coins each)",
+        "line2": "Sell Shards (25 coins each)",
+        "line3": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 64,
+        "type": "OPTION",
+        "lines": 4,
+        "line1": "Teleport To The Gambling Area",
+        "line2": "Talk About The Lottery",
+        "line3": "View Gambler's Store",
+        "line4": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 65,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "Godwars Dungeon",
+        "line2": "Dagannoth Kings",
+        "line3": "Frost Dragons",
+        "line4": "Tormented Demons",
+        "line5": "More",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 66,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "King Black Dragon",
+        "line2": "Chaos Elemental",
+        "line3": "Slash Bash",
+        "line4": "Nomad",
+        "line5": "More",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 68,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "Kalphite Queen",
+        "line2": "Phoenix",
+        "line3": "Bandos Avatar",
+        "line4": "Glacors",
+        "line5": "More",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 69,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "Corporeal Beast",
+        "line2": "Nex",
+        "line3": "Scorpia (WILDERNESS)",
+        "line4": "Venenatis (WILDERNESS)",
+        "line5": "return",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 70,
+        "type": "NPC_STATEMENT",
+        "anim": "SCARED",
+        "lines": 4,
+        "line1": "Warning! This teleport leads to a deep",
+        "line2": "Wilderness level.",
+        "line3": "You cannot teleport above level 20 Wilderness!",
+        "line4": "Are you sure you wish to continue anyway?",
+        "next": 71,
+        "npcId": 1
+    },
+    {
+        "id": 71,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Continue",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 72,
+        "type": "NPC_STATEMENT",
+        "anim": "THINKING_STILL",
+        "lines": 1,
+        "line1": "Please wait at least 5 seconds. Don't touch anything!",
+        "next": 72,
+        "npcId": 7969
+    },
+    {
+        "id": 73,
+        "type": "NPC_STATEMENT",
+        "anim": "SAD",
+        "lines": 2,
+        "line1": "Nope, sorry.",
+        "line2": "I Can't seem to locate that drop",
+        "next": -1,
+        "npcId": 7969
+    },
+    {
+        "id": 74,
+        "type": "NPC_STATEMENT",
+        "anim": "GOOFY_LAUGH",
+        "lines": 2,
+        "line1": "You're going to have to be far more",
+        "line2": "specific than that!",
+        "next": -1,
+        "npcId": 7969
+    },
+    {
+        "id": 75,
+        "type": "OPTION",
+        "lines": 4,
+        "line1": "About the Well",
+        "line2": "Look down Well",
+        "line3": "Contribute to Well",
+        "line4": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 76,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 4,
+        "line1": "The Well of Goodwill, brought to us by",
+        "line2": "Saradomin. It is said that the well can",
+        "line3": "hold 250 million coins, and that if it",
+        "line4": "is filled, Saradomin will bless everyone with",
+        "next": 77,
+        "npcId": 802
+    },
+    {
+        "id": 77,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 4,
+        "line1": "30% bonus experience for 2 hours.",
+        "line2": "It is also said that those who contributed",
+        "line3": "will be blessed even further, and receive",
+        "line4": "bonus Loyalty points too, during these 2 hours.",
+        "next": 75,
+        "npcId": 802
+    },
+    {
+        "id": 78,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Pick up flowers",
+        "line2": "Leave flowers",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 79,
+        "type": "STATEMENT",
+        "lines": 1,
+        "line1": "Are you sure about this?",
+        "next": 80,
+        "npcId": -1
+    },
+    {
+        "id": 80,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Continue",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 81,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 2,
+        "line1": "Welcome to Paescape!",
+        "line2": "Which mode would you like to play as?",
+        "next": 82,
+        "npcId": 6139
+    },
+    {
+        "id": 82,
+        "type": "OPTION",
+        "lines": 4,
+        "line1": "Normal",
+        "line2": "Ironman",
+        "line3": "Hardcore Ironman",
+        "line4": "Information About The Modes",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 83,
+        "type": "NPC_STATEMENT",
+        "anim": "SAD",
+        "lines": 3,
+        "line1": "I'm sorry, but right now only ironman-players",
+        "line2": "can change their gamemode.",
+        "line3": "You can always create a new account though!",
+        "next": -1,
+        "npcId": 6139
+    },
+    {
+        "id": 84,
+        "type": "NPC_STATEMENT",
+        "anim": "THINKING_STILL",
+        "lines": 2,
+        "line1": "Are you sure you wish to do that?",
+        "line2": "This will reset ALL your progress.",
+        "next": 85,
+        "npcId": 6139
+    },
+    {
+        "id": 85,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Yes",
+        "line2": "No",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 86,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Teleport: Rimmington Mine",
+        "line2": "Teleport: Mining Guild",
+        "line3": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 87,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Mine Rune Essence",
+        "line2": "Mine Pure Essence (level 30 Mining)",
+        "line3": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 88,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "Teleport: Edgeville",
+        "line2": "Teleport: Varrock",
+        "line3": "Teleport: Duel Arena",
+        "line4": "Teleport: TzHaar Caves",
+        "line5": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 89,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Teleport: Low-level Woodcutting",
+        "line2": "Teleport: High-level Woodcutting (Level 60 Required)",
+        "line3": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 90,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 2,
+        "line1": "Welcome to my Graveyard, adventurer.",
+		"line2": "I hope you will enjoy your stay.",
+        "next": 91,
+        "npcId": 3101
+    },
+    {
+        "id": 91,
+        "type": "PLAYER_STATEMENT",
+        "anim": "THINKING_STILL",
+        "lines": 2,
+        "line1": "Thanks!",
+		"line2": "Hmm.. Are those real zombies?",
+        "next": 92
+    },
+    {
+        "id": 92,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 3,
+        "line1": "Yes they are, sadly..",
+		"line2": "These pesky zombies always make a mess of my yard.",
+		"line3": "Iuff.",
+        "next": 93,
+        "npcId": 3101
+    },
+	{
+        "id": 93,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 4,
+        "line1": "Iuff. I can make you a deal, adventurer.",
+		"line2": "If you help me clear out all the zombies,",
+		"line3": "I will reward you with fragments which you",
+		"line4": "can use in my store to unlock great items.",
+        "next": 94,
+        "npcId": 3101
+    },
+	{
+        "id": 94,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 4,
+        "line1": "I will make sure that each zombie you kill",
+		"line2": "will drop one of these rare fragments.",
+		"line3": "This way, your effort will not be a waste",
+		"line4": "of time. What do you say, are you in?",
+        "next": 95,
+        "npcId": 3101
+    },
+	{
+        "id": 95,
+        "type": "STATEMENT",
+        "lines": 1,
+        "line1": "Would you like to start the Graveyard minigame?",
+        "next": 96
+    },
+	{
+        "id": 96,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Yes, zombies do not scare me!",
+		"line2": "Cancel, abort mission, abort mission!",
+        "next": -1
+    },
+	{
+        "id": 97,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 3,
+        "line1": "I've cast a spell on the area.",
+		"line2": "If you die, you will keep your items.",
+		"line3": "Good luck, adventurer.",
+        "next": 98,
+        "npcId": 3101
+    },
+	{
+        "id": 98,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 1,
+        "line1": "Iuff.",
+        "next": -1,
+        "npcId": 3101
+    },
+	{
+        "id": 99,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Experience",
+		"line2": "Equipment",
+		"line3": "Cancel",
+        "next": -1
+    },
+	{
+        "id": 100,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "View All Shops",
+		"line2": "Manage my own shop",
+		"line3": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+	{
+        "id": 101,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "Configure Gold Charms",
+		"line2": "Configure Green Charms",
+		"line3": "Configure Crimson Charms",
+		"line4": "Configure Blue Charms",
+		"line5": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+	{
+        "id": 102,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Automatically Pick-up All Charms",
+		"line2": "Automatically Turn All Charms Into Exp",
+		"line3": "Cancel",
+        "next": -1
+    },
+	{
+        "id": 103,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Create Slayer Duo Team",
+		"line2": "Leave Slayer Duo Team",
+		"line3": "Cancel",
+        "next": -1
+    },
+	{
+        "id": 104,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 4,
+        "line1": "Welcome to Daeomheim my friend! To start",
+		"line2": "Dungeoneering you must first be in a party.",
+		"line3": "A party can contain up to 5 members. Simply",
+		"line4": "press on the 'Form Party' button to begin!",
+        "next": -1,
+        "npcId": 9713
+    },
+	{
+        "id": 105,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "Floor 1",
+		"line2": "N/A",
+		"line3": "N/A",
+		"line4": "N/A",
+		"line5": "Cancel",
+        "next": -1
+    },
+	{
+        "id": 106,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "Complexity 1",
+		"line2": "Complexity 2",
+		"line3": "Complexity 3",
+		"line4": "Complexity 4",
+		"line5": "Cancel",
+        "next": -1
+    },
+	{
+        "id": 107,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Open Dungeoneering Store",
+		"line2": "Start Dungeoneering (25 Paepoints)",
+		"line3": "Cancel",
+		"next": -1
+    },
+	{
+        "id": 108,
+        "type": "OPTION",
+        "lines": 3,
+		"line1": "I want 10 minutes of 30% bonus experience!",
+        "line2": "I want 1,000,000 coins & 1 Voting point!",
+		"line3": "Cancel",
+		"next": -1
+    },
+	{
+        "id": 109,
+        "type": "OPTION",
+        "lines": 3,
+		"line1": "I want 5 minutes of 10% bonus experience!",
+        "line2": "I want 150,000 coins & 1 Voting point!",
+		"line3": "Cancel",
+		"next": -1
+    },
+	{
+        "id": 110,
+        "type": "NPC_STATEMENT",
+        "anim": "SCARED",
+        "lines": 3,
+        "line1": "Warning!",
+		"line2": "If you die in a boss room, the gods will",
+        "line3": "take your items as sacrifice. Be careful!",
+        "next": -1,
+        "npcId": 1
+    },
+	{
+        "id": 111,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 2,
+        "line1": "You need to be in a Dungeoneering party to begin.",
+		"line2": "Either join one or form your own.",
+        "next": 107,
+        "npcId": 9713
+    },
+	{
+        "id": 112,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 2,
+        "line1": "You party has not selected which floor to explore.",
+		"line2": "Come back once you have decided!",
+        "next": 107,
+        "npcId": 9713
+    },
+	{
+        "id": 113,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 3,
+        "line1": "You party has not selected which complexity",
+		"line2": "level they wish to explore the floor with.",
+		"line3": "Come back once you have decided!",
+        "next": 107,
+        "npcId": 9713
+    },
+	{
+        "id": 114,
+        "type": "OPTION",
+        "lines": 2,
+		"line1": "Abandon Dungeon",
+        "line2": "Cancel",
+		"next": -1
+    },
+    {
+        "id": 115,
+        "type": "NPC_STATEMENT",
+        "anim": "SCARED",
+        "lines": 4,
+        "line1": "Warning! The entire town has become infested with",
+        "line2": "revenants. You also need to be warned that the whole",
+        "line3": "town is a level @red@60 Wilderness multi-area@bla@.",
+        "line4": "Are you sure you wish to enter anyway?",
+        "next": 116,
+        "npcId": 1
+    },
+	{
+        "id": 116,
+        "type": "OPTION",
+        "lines": 2,
+		"line1": "Enter Ghost Town",
+        "line2": "Cancel",
+		"next": -1
+    },
+    {
+        "id": 117,
+        "type": "PLAYER_STATEMENT",
+        "anim": "PLAIN_TALKING",
+        "lines": 1,
+        "line1": "A ghost? What are you doing here?",
+        "next": 118,
+        "npcId": -1
+    },
+    {
+        "id": 118,
+        "type": "NPC_STATEMENT",
+        "anim": "PLAIN_TALKING",
+        "lines": 2,
+        "line1": "Well, my home town has been overrun with revenants.",
+        "line2": "So there is that.",
+        "next": 119,
+        "npcId": 457
+    },
+    {
+        "id": 119,
+        "type": "PLAYER_STATEMENT",
+        "anim": "PLAIN_TALKING",
+        "lines": 1,
+        "line1": "Is there anything I can do to help?",
+        "next": 120,
+        "npcId": -1
+    },
+    {
+        "id": 120,
+        "type": "NPC_STATEMENT",
+        "anim": "PLAIN_TALKING",
+        "lines": 2,
+        "line1": "I guess you could kill them all?",
+        "line2": "I can take you there if you so wish.",
+        "next": 121,
+        "npcId": 457
+    },
+    {
+        "id": 121,
+        "type": "OPTION",
+        "lines": 2,
+		"line1": "Sure! Teleport Me To Ghost Town!",
+		"line2": "No thanks. Ghosts aren't my thing.",
+		"next": -1
+    },
+    {
+        "id": 122,
+        "type": "NPC_STATEMENT",
+        "anim": "PLAIN_TALKING",
+        "lines": 3,
+        "line1": "I can see that you've become a veteran!",
+        "line2": "Would you like the Veteran rank?",
+		"line3": "Warning! It will reset your current rank.",
+        "next": 123,
+        "npcId": 605
+    },
+    {
+        "id": 123,
+        "type": "OPTION",
+        "lines": 2,
+		"line1": "Yes, sure!",
+		"line2": "No thanks.",
+		"next": -1
+    },
+    {
+        "id": 124,
+        "type": "NPC_STATEMENT",
+        "anim": "PLAIN_TALKING",
+        "lines": 4,
+        "line1": "Once you've reached the maximum level in a skill,",
+        "line2": "you can reset it to receive Prestige points.",
+		"line3": "These points can be used in my store. You gain more",
+		"line4": "points the more experience you have in the skill.",
+        "next": 125,
+        "npcId": 2579
+    },
+    {
+        "id": 125,
+        "type": "NPC_STATEMENT",
+        "anim": "PLAIN_TALKING",
+        "lines": 2,
+        "line1": "You will also receive more points if you're an ironman",
+        "line2": "or hardcore-ironman player.",
+        "next": 126,
+        "npcId": 2579
+    },
+    {
+        "id": 127,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Vet'ion",
+        "line2": "Callisto",
+        
+        "line3": "Return",
+        "next": -1,
+        "npcId": -1
+    },
+     {
+        "id": 177,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "The Lumbridge Cows Event is now live!",
+        "line2": "Type ::cows to enter! Enjoy",    
+        "next": -1,
+        "npcId": 5210
+    },
+    {
+        "id": 155,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 2,
+        "line1": "Gamble your items or coins with me!",
+        "line2": "Use your items or coins on me to gamble them",
+        "next": -1,
+        "npcId": 367
+    },
+     {
+        "id": 157,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 2,
+        "line1": "Mine those shooting stars and get some star dust!",
+        "line2": "Spend your start dust on my shop/sell it to the general store!",
+        "next": -1,
+        "npcId": 4902
+    },
+     {
+        "id": 159,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 2,
+        "line1": "Hello there, I will combine all of your potions together!",
+        "line2": "@blu@Free for all players!",
+        "next": 160,
+        "npcId": 543
+    },
+     {
+        "id": 160,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Yes, combine my potions to (4) doses",
+        "line2": "Never mind, I'm good",
+        "next": -1
+      
+    },
+    {
+        "id": 126,
+        "type": "OPTION",
+        "lines": 2,
+		"line1": "I'd like to prestige.",
+		"line2": "No thanks.",
+		"next": -1
+    },  
+    {
+        "id": 161,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Falador Furnace",
+        "line2": "Varrock Anvil",
+        "line3": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+	
+    {
+        "id": 162,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 2,
+        "line1": "@blu@Hello there, I am what you'd call The Man",
+        "line2": "@blu@I can rent out workers to you for a fee.",
+        "next": 163,
+        "npcId": -1
+    },
+     {
+        "id": 163,
+        "type": "OPTION",
+        "anim": "NORMAL",
+        "lines": 3,
+        "line1": "@red@Check for collected resources",
+        "line2": "@red@Check for workers that still have work to do",
+		"line3": "@red@Rent a worker (1m)",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 164,
+        "type": "OPTION",
+        "anim": "NORMAL",
+        "lines": 4,
+        "line1": "@red@Miner (500 ores)",
+        "line2": "@red@Woodcutter (1,000 logs)",
+        "line3": "@red@Farmer (250 herbs)",
+        "line4": "@red@Fisher (500 fish)",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 165,
+        "type": "OPTION",
+        "anim": "NORMAL",
+        "lines": 4,
+        "line1": "@red@Melee",
+        "line2": "@gre@Ranged",
+        "line3": "@blu@Magic",
+        "line4": "@or1@Skiller",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 166,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Berserker",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 167,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Bullseye",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 168,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Prophetic",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 169,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Vampirism",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 170,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Survivalist",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 171,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Accelerate",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 172,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Lucky",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 173,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Prodigy",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 174,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Unnatural",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 175,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Artisan",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 176,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Fabricator",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 177,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Prodigy",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 178,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Equilibrium",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 179,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Flash",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 180,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Loaded",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 181,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Lifelink",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 182,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Berserker",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 183,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Bullseye",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 184,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Prophetic",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 185,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Accelerate",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 186,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Unnatural",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 187,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Lucky",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 188,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Merchant",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 189,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Artisan",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 190,
+        "type": "OPTION",
+        "anim": "NORMAL",
+        "lines": 5,
+        "line1": "Normal",
+        "line2": "Ironman",
+        "line3": "Ultimate Ironman",
+        "line4": "@red@Hardcore Ironman",
+        "line5": "@gre@Future Game Mode?",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 191,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 3,
+        "line1": "We really appreciate you logging",
+        "line2": "on to the server today!",
+        "line3": "Take this free Reward!",
+        "next": -1,
+        "npcId": 2917
+    },
+    {
+        "id": 192,
+        "type": "NPC_STATEMENT",
+        "anim": "MIDLY_ANGRY",
+        "lines": 1,
+        "line1": "Pat told me you've been @red@Naughty!",
+        "next": 193,
+        "npcId": 8540
+    },
+    {
+        "id": 193,
+        "type": "NPC_STATEMENT",
+        "anim": "WIDEN_EYES",
+        "lines": 3,
+        "line1": "There is only one way",
+        "line2": "you will get anything",
+        "line3": "for Christmas this year!",
+        "next": 194,
+        "npcId": 8540
+    },
+    {
+        "id": 194,
+        "type": "NPC_STATEMENT",
+        "anim": "WIDEN_EYES",
+        "lines": 2,
+        "line1": "Train your skills to",
+        "line2": "receive Presents!",
+        "next": 195,
+        "npcId": 8540
+    },
+    {
+        "id": 195,
+        "type": "NPC_STATEMENT",
+        "anim": "WIDEN_EYES",
+        "lines": 2,
+        "line1": "You need to get",
+        "line2": "4 Presents!",
+        "next": -1,
+        "npcId": 8540
+    },
+    {
+        "id": 196,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 1,
+        "line1": "Thank you!!",
+        "next": 197,
+        "npcId": 8540
+    },
+    {
+        "id": 197,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 3,
+        "line1": "Pat told me to tell you",
+        "line2": "There are a lot of cool",
+        "line3": "Updates coming soon!",
+        "next": -1,
+        "npcId": 8540
+    },
+    {
+        "id": 198,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm buying Max Cape",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 199,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm Prestiging",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 200,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm Upgrade",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 201,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Detective",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 202,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Critical",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 203,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Flurry",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 204,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Consistent",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 205,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Dexterity",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 206,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Stability",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 207,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Absorb",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 208,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Efficiency",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 209,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Efficacy",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 210,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Devour",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 211,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Wealthy",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 212,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Reflect",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 213,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 3,
+        "line1": "You are able to withdraw",
+        "line2": "Donator credits from me",
+        "line3": "and trade them to anyone!",
+        "next": 214,
+        "npcId": 2917
+    },
+    {
+        "id": 214,
+        "type": "OPTION",
+        "anim": "NORMAL",
+        "lines": 5,
+        "line1": "Withdraw 5",
+        "line2": "Withdraw 10",
+        "line3": "Withdraw 25",
+        "line4": "Withdraw 100",
+        "line5": "Withdraw All",
+        "next": -1,
+        "npcId": 2917
+    },
+    {
+        "id": 215,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Accelerate",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 216,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Looter",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 217,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Specialist",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 218,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Enraged",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 219,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Vesta",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 220,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Statius",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 221,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Morrigan",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 222,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Zuriel",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 223,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Savior",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 224,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Alchemize",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 225,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing CoX Bonus RNG",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 226,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing ToB Bonus RNG",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 227,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Chaos Raid Bonus RNG",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 228,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing GWD Raid Bonus RNG",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 229,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Normal Drop Rate (1 Crystal Key)",
+        "line2": "5% Drop Rate Boost (25 Crystal Keys)",
+        "line3": "10% Drop Rate Boost (100 Crystal Keys)",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 230,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "Wintertodt",
+        "line2": "Woodcutting Guild",
+        "line3": "Blast Mine",
+        "line4": "Chambers of Xeric",
+        "line5": "@red@Mount Karuulm",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 231,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing SHR Raid Bonus RNG",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 232,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Tainted",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 233,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Botanist",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 234,
+        "type": "OPTION",
+        "anim": "NORMAL",
+        "lines": 2,
+        "line1": "BoxScape: @gre@ON",
+        "line2": "BoxScape: @red@OFF",
+        "next": -1,
+        "npcId": -1
+    }
+
+
+
+,
+    {
+        "id": 300,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Berserker",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 301,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Bullseye",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 302,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Prophetic",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 303,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Vampirism",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 304,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Survivalist",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 305,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Accelerate",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 306,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Lucky",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 307,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Prodigy",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 308,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Unnatural",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 309,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm purchasing Artisan",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 310,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Move to Home",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 311,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "1x Spawn (Free)",
+        "line2": "2x Spawn (10m)",
+        "line3": "3x Spawn (25m)",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 312,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Open Death's Coffer",
+        "line2": "Reset Death's Coffer",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 313,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Unlock Banker",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 314,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Unlock Processor",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 315,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Unlock Gatherer",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 316,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Unlock Sweeten",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 317,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Unlock Entertainer",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 318,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Unlock Combatant",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 319,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Unlock Cryptic",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 320,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Unlock Gambler",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 321,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Unlock Prosperous",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 322,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Unlock Bountiful",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+
+
+    {
+        "id": 1000,
+        "type": "NPC_STATEMENT",
+        "anim": "WIDEN_EYES",
+        "lines": 4,
+        "line1": "PaeScape is a OSRS based 317",
+        "line2": "that incorporates perks and",
+        "line3": "other QoL updates to make",
+        "line4": "the game more enjoyable!",
+        "next": 1001,
+        "npcId": 2917
+    },
+    {
+        "id": 1001,
+        "type": "NPC_STATEMENT",
+        "anim": "WIDEN_EYES",
+        "lines": 3,
+        "line1": "I will take you on a short",
+        "line2": "tutorial to explain a few",
+        "line3": "key parts of the server!",
+        "next": 1002,
+        "npcId": 2917
+    },
+    {
+        "id": 1002,
+        "type": "NPC_STATEMENT",
+        "anim": "WIDEN_EYES",
+        "lines": 4,
+        "line1": "Please feel free to ask for",
+        "line2": "help in the clan chat or",
+        "line3": "Discord! Report any issues",
+        "line4": "using our ticket system!",
+        "next": 1003,
+        "npcId": 2917
+    },
+    {
+        "id": 1003,
+        "type": "NPC_STATEMENT",
+        "anim": "WIDEN_EYES",
+        "lines": 4,
+        "line1": "Click on me again to move",
+        "line2": "into the Tutorial Dungeon",
+        "line3": "to begin your experience",
+        "line4": "on PaeScape!",
+        "next": -1,
+        "npcId": 2917
+    },
+    {
+        "id": 1004,
+        "type": "NPC_STATEMENT",
+        "anim": "WIDEN_EYES",
+        "lines": 4,
+        "line1": "Please use this Pickaxe",
+        "line2": "to mine some ore. Then",
+        "line3": "talk to me after to learn",
+        "line4": "about your first Perk!",
+        "next": -1,
+        "npcId": 17222
+    },
+    {
+        "id": 1005,
+        "type": "NPC_STATEMENT",
+        "anim": "WIDEN_EYES",
+        "lines": 2,
+        "line1": "Now that you know how to mine,",
+        "line2": "let me teach you about perks!",
+        "next": 1006,
+        "npcId": 17222
+    },
+    {
+        "id": 1006,
+        "type": "NPC_STATEMENT",
+        "anim": "WIDEN_EYES",
+        "lines": 4,
+        "line1": "Click on the Quest Tab, then",
+        "line2": "find 'Perks' under the Tools",
+        "line3": "section. Click on 'Perks'!",
+        "line4": "You will see the Perk Menu.",
+        "next": 1007,
+        "npcId": 17222
+    },
+    {
+        "id": 1007,
+        "type": "NPC_STATEMENT",
+        "anim": "WIDEN_EYES",
+        "lines": 4,
+        "line1": "Click on 'Basic' and then",
+        "line2": "purchase 'Accelerate! This",
+        "line3": "perk is free to all new",
+        "line4": "players on the server!",
+        "next": -1,
+        "npcId": 17222
+    },
+    {
+        "id": 1008,
+        "type": "NPC_STATEMENT",
+        "anim": "WIDEN_EYES",
+        "lines": 4,
+        "line1": "Congratulations, you've unlocked",
+        "line2": "your first perk! Accelerate will",
+        "line3": "allow you to gather and process",
+        "line4": "materials twice as fast!",
+        "next": 1009,
+        "npcId": 17222
+    },
+    {
+        "id": 1009,
+        "type": "NPC_STATEMENT",
+        "anim": "WIDEN_EYES",
+        "lines": 4,
+        "line1": "Try to Mine some more ore and",
+        "line2": "you will see the effect that",
+        "line3": "the Accelerate perk has on your",
+        "line4": "character!",
+        "next": -1,
+        "npcId": 17222
+    },
+    {
+        "id": 1010,
+        "type": "NPC_STATEMENT",
+        "anim": "WIDEN_EYES",
+        "lines": 4,
+        "line1": "Next you will need to go East",
+        "line2": "and talk to the great Vannaka!",
+        "line3": "He will teach you about combat",
+        "line4": "and give you a free perk!",
+        "next": -1,
+        "npcId": 17222
+    },
+    {
+        "id": 1011,
+        "type": "NPC_STATEMENT",
+        "anim": "WIDEN_EYES",
+        "lines": 3,
+        "line1": "On PaeScape there are also perks",
+        "line2": "that will effect how combat works!",
+        "line3": "What combat style do you prefer?",
+        "next": 1012,
+        "npcId": 14403
+    },
+    {
+        "id": 1012,
+        "type": "OPTION",
+        "anim": "NORMAL",
+        "lines": 3,
+        "line1": "@red@Melee",
+        "line2": "@gre@Ranged",
+        "line3": "@blu@Magic",
+        "next": -1,
+        "npcId": 14403
+    },
+    {
+        "id": 1013,
+        "type": "NPC_STATEMENT",
+        "anim": "WIDEN_EYES",
+        "lines": 4,
+        "line1": "Equip your weapon and go",
+        "line2": "kill a rat! After that I",
+        "line3": "will give you your first",
+        "line4": "combat perk for free!",
+        "next": -1,
+        "npcId": 14403
+    },
+    {
+        "id": 1014,
+        "type": "NPC_STATEMENT",
+        "anim": "WIDEN_EYES",
+        "lines": 2,
+        "line1": "Come see me to unlock",
+        "line2": "your first Combat Perk!",
+        "next": -1,
+        "npcId": 14403
+    },
+    {
+        "id": 1015,
+        "type": "NPC_STATEMENT",
+        "anim": "WIDEN_EYES",
+        "lines": 4,
+        "line1": "Go to your Perk Menu and",
+        "line2": "select one of the following:",
+        "line3": "Berserker (Melee), Prophetic (Magic),",
+        "line4": "Bullseye (Ranged)",
+        "next": -1,
+        "npcId": 14403
+    },
+    {
+        "id": 1016,
+        "type": "NPC_STATEMENT",
+        "anim": "WIDEN_EYES",
+        "lines": 2,
+        "line1": "Go kill another rat with your",
+        "line2": "new Combat Perk!",
+        "next": -1,
+        "npcId": 14403
+    },
+    {
+        "id": 1017,
+        "type": "NPC_STATEMENT",
+        "anim": "WIDEN_EYES",
+        "lines": 3,
+        "line1": "Walk North East and go",
+        "line2": "up the ladder to continue",
+        "line3": "your tutorial!",
+        "next": -1,
+        "npcId": 14403
+    },
+    {
+        "id": 1018,
+        "type": "NPC_STATEMENT",
+        "anim": "WIDEN_EYES",
+        "lines": 3,
+        "line1": "Talk to Pat to select",
+        "line2": "your game mode and move",
+        "line3": "to the main land!",
+        "next": -1,
+        "npcId": 14403
+    },
+    {
+        "id": 1019,
+        "type": "OPTION",
+        "anim": "NORMAL",
+        "lines": 4,
+        "line1": "PvM (1)",
+        "line2": "PvM (2)",
+        "line3": "Skilling (1)",
+        "line4": "Skilling (2)",
+        "next": -1,
+        "npcId": 2909
+    },
+    {
+        "id": 1020,
+        "type": "OPTION",
+        "anim": "NORMAL",
+        "lines": 5,
+        "line1": "Venenatis",
+        "line2": "Scorpia",
+        "line3": "Chaos Elemental",
+        "line4": "Vet'ion",
+        "line5": "Callisto",
+        "next": -1,
+        "npcId": 2909
+    },
+    {
+        "id": 1021,
+        "type": "OPTION",
+        "anim": "NORMAL",
+        "lines": 4,
+        "line1": "Vorkath",
+        "line2": "Revenant Arena",
+        "line3": "Wildywyrm",
+        "line4": "Tormented Demons",
+        "next": -1,
+        "npcId": 2909
+    },
+    {
+        "id": 1022,
+        "type": "OPTION",
+        "anim": "NORMAL",
+        "lines": 4,
+        "line1": "Wilderness Resource",
+        "line2": "Chaos Altar",
+        "line3": "Agility Course",
+        "line4": "Larran's Chest",
+        "next": -1,
+        "npcId": 2909
+    },
+    {
+        "id": 1023,
+        "type": "OPTION",
+        "anim": "NORMAL",
+        "lines": 4,
+        "line1": "Amethyst",
+        "line2": "Anglerfish",
+        "line3": "Wrath Altar",
+        "line4": "Kyatt",
+        "next": -1,
+        "npcId": 2909
+    },
+    {
+        "id": 1024,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 4,
+        "line1": "This Obelisk will teleport you",
+        "line2": "to the Level 19 Wilderness",
+        "line3": "Obelisk. You will not lose your",
+        "line4": "items on death in the wild.",
+        "next": 1025,
+        "npcId": 2909
+    },
+    {
+        "id": 1025,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 4,
+        "line1": "You must select the amount you'd",
+        "line2": "like to risk. If you safely leave",
+        "line3": "the wild, you will receive half",
+        "line4": "of what you paid.",
+        "next": 1026,
+        "npcId": 2909
+    },
+    {
+        "id": 1026,
+        "type": "OPTION",
+        "anim": "NORMAL",
+        "lines": 5,
+        "line1": "5m (no boosts)",
+        "line2": "10m (5% Drop Rate/XP)",
+        "line3": "25m (10% Drop Rate/XP)",
+        "line4": "50m (15% Drop Rate/XP)",
+        "line5": "100m (20% Drop Rate/XP)",
+        "next": -1,
+        "npcId": 2909
+    },
+    {
+        "id": 1027,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 4,
+        "line1": "You may cross the wilderness",
+        "line2": "ditch to enter the wilderness.",
+        "line3": "You will not lose your items",
+        "line4": "on death in the wilderness.",
+        "next": 1028,
+        "npcId": 2909
+    },
+    {
+        "id": 1028,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 4,
+        "line1": "You must select the amount you'd",
+        "line2": "like to risk. If you safely leave",
+        "line3": "the wilderness, you will receive",
+        "line4": "half of what you paid.",
+        "next": 1029,
+        "npcId": 2909
+    },
+    {
+        "id": 1029,
+        "type": "OPTION",
+        "anim": "NORMAL",
+        "lines": 5,
+        "line1": "5m (no boosts)",
+        "line2": "10m (5% Drop Rate/XP)",
+        "line3": "25m (10% Drop Rate/XP)",
+        "line4": "50m (15% Drop Rate/XP)",
+        "line5": "100m (20% Drop Rate/XP)",
+        "next": -1,
+        "npcId": 2909
+    },
+    {
+        "id": 1030,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "Kingdom: Top Donator",
+        "line2": "Kingdom: Top Experience",
+        "line3": "Kingdom: Top Boss KC",
+        "line4": "Kingdom: Top Gatherer",
+        "line5": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 1031,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 4,
+        "line1": "You can donate coins to the",
+        "line2": "Nobility System! These coins",
+        "line3": "are non-refundable and will",
+        "line4": "incur a daily 1% tax.",
+        "next": 1032,
+        "npcId": 17668
+    },
+    {
+        "id": 1032,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 4,
+        "line1": "All contributions are made in",
+        "line2": "Millions, so please be aware.",
+        "line3": "The top 25 Noble players will",
+        "line4": "receive Nobility Boosts.",
+        "next": 1033,
+        "npcId": 17668
+    },
+    {
+        "id": 1033,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 4,
+        "line1": "The boosts are as follows",
+        "line2": "Rank 1-5: 15% boost",
+        "line3": "Rank 6-15: 10% boost",
+        "line4": "Rank 16-25: 5% boost",
+        "next": 1034,
+        "npcId": 17668
+    },
+    {
+        "id": 1034,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 4,
+        "line1": "The boosts work towards:",
+        "line2": "Additional loot drop,",
+        "line3": "Additional raid key,",
+        "line4": "bonus XP, max hit boost",
+        "next": 1035,
+        "npcId": 17668
+    },
+    {
+        "id": 1034,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 2,
+        "line1": "Right-click Contribute",
+        "line2": "on me to make contributions",
+        "next": -1,
+        "npcId": 17668
+    },
+    {
+        "id": 1035,
+        "type": "OPTION",
+        "anim": "NORMAL",
+        "lines": 3,
+        "line1": "Spend 100M to re-roll BINGO card.",
+        "line2": "Spend 5 Donator Rank Points",
+        "line3": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 1036,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 3,
+        "line1": "Come see me after you have",
+        "line2": "Completed all Achievements.",
+        "line3": "",
+        "next": 1037,
+        "npcId": 2253
+    },
+    {
+        "id": 1037,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 3,
+        "line1": "There's so much content",
+        "line2": "for you to explore!",
+        "line3": "",
+        "next": -1,
+        "npcId": 2253
+    },
+    {
+        "id": 1038,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 3,
+        "line1": "Congratulations on",
+        "line2": "completing such a long",
+        "line3": "and distant journey.",
+        "next": 1039,
+        "npcId": 2253
+    },
+    {
+        "id": 1039,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 3,
+        "line1": "Many others have started",
+        "line2": "this adventure, but very",
+        "line3": "few have completed it.",
+        "next": 1040,
+        "npcId": 2253
+    },
+    {
+        "id": 1040,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 3,
+        "line1": "I have a very prestigous",
+        "line2": "cape that very few have",
+        "line3": "had the opportunity to wear.",
+        "next": 1041,
+        "npcId": 2253
+    },
+    {
+        "id": 1041,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 3,
+        "line1": "Would you like to",
+        "line2": "purchase this cape for",
+        "line3": "1 Billion coins?",
+        "next": 1042,
+        "npcId": 2253
+    },
+    {
+        "id": 1042,
+        "type": "OPTION",
+        "anim": "NORMAL",
+        "lines": 2,
+        "line1": "Yes",
+        "line2": "No",
+        "next": -1,
+        "npcId": 2253
+    },
+    {
+        "id": 1051,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Harvester",
+        "line2": "Producer",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 1052,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Contender",
+        "line2": "Strategist",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 1053,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Gilded",
+        "line2": "Shoplifter",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 1054,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Impulsive",
+        "line2": "Rapid",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 1055,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Bloodthirsty",
+        "line2": "Infernal",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 1056,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Summoner",
+        "line2": "Ruinous",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 1057,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Gladiator",
+        "line2": "Warlord",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 1058,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Deathless",
+        "line2": "Executioner",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 1059,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm Upgrade",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 1060,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm Upgrade",
+        "line2": "Cancel",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 1200,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 3,
+        "line1": "Smithing is such a great skill",
+        "line2": "It's uses are far beyond",
+        "line3": "What you might think.",
+        "next": 1201,
+        "npcId": 4904
+    },
+    {
+        "id": 1201,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 2,
+        "line1": "You'll need to gather some",
+        "line2": "Ores then click the furnace. ",
+        "next": 1202,
+        "npcId": 4904
+    },
+    {
+        "id": 1202,
+        "type": "NPC_STATEMENT",
+        "anim": "NORMAL",
+        "lines": 2,
+        "line1": "You can start with a",
+        "line2": "copper and tin ore. ",
+        "next": -1,
+        "npcId": 4904
+    }
+]

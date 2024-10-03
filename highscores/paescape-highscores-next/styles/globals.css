@@ -1,0 +1,109 @@
+body {
+  background: black;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  background-image: url(../public/img/bg2.jpg);
+  background-position: top center;
+  background-repeat: repeat-y;
+  text-align: center;
+  margin: 0;
+  min-width: 960px;
+  overflow-y: scroll;
+}
+
+.centerDiv {
+  background: url(../public/img/bg2.jpg) repeat-y scroll center top black;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+div#body {
+  width: 765px;
+  margin: 10px auto 10px auto;
+  text-align: left;
+  position: relative;
+}
+
+div,
+td {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  border: 0;
+}
+
+img a:hover {
+  text-decoration: none;
+}
+
+.titleframe {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 4px;
+  text-align: center;
+}
+
+.frame {
+  width: 753px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 4px;
+}
+
+.tandc {
+  clear: both;
+  font-size: 11px;
+  margin: auto;
+  position: relative;
+  text-align: center;
+  width: 765px;
+}
+
+.tandc__copy {
+  margin: auto;
+  width: 470px;
+}
+
+.tandc>a {
+  display: block;
+  position: absolute;
+  left: 25px;
+  top: 6px;
+}
+
+a {
+  color: #90c040;
+  text-decoration: none;
+}
+
+.scroll a {
+  color: #7B4F17;
+  font-weight: bold;
+}
+
+.e {
+  border: 2px solid #382418;
+  background-color: black;
+}
+
+.wide_e {
+  background-color: black;
+  border: 2px solid #382418;
+  margin-top: 10px;
+  overflow: hidden;
+  position: relative;
+}
+
+.footer__company-img {
+  width: 80px;
+}

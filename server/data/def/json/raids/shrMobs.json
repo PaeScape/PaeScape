@@ -1,0 +1,660 @@
+[
+  {
+    //Bathus Warrior
+    "npc-id": 10422,
+    "face": SOUTH,
+    "position": {
+      "x": 2629,
+      "y": 5070,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Bathus Warrior
+    "npc-id": 10422,
+    "face": SOUTH,
+    "position": {
+      "x": 2681,
+      "y": 5059,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Wildercress Mage
+    "npc-id": 10565,
+    "face": SOUTH,
+    "position": {
+      "x": 2670,
+      "y": 5061,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Wildercress Mage
+    "npc-id": 10565,
+    "face": SOUTH,
+    "position": {
+      "x": 2662,
+      "y": 5065,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Subleather Ranger
+    "npc-id": 10327,
+    "face": SOUTH,
+    "position": {
+      "x": 2657,
+      "y": 5073,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Subleather Ranger
+    "npc-id": 10327,
+    "face": SOUTH,
+    "position": {
+      "x": 2647,
+      "y": 5066,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Bathus Warrior
+    "npc-id": 10422,
+    "face": SOUTH,
+    "position": {
+      "x": 2646,
+      "y": 5075,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Bathus Warrior
+    "npc-id": 10422,
+    "face": SOUTH,
+    "position": {
+      "x": 2641,
+      "y": 5059,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Wildercress Mage
+    "npc-id": 10565,
+    "face": SOUTH,
+    "position": {
+      "x": 2636,
+      "y": 5079,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Wildercress Mage
+    "npc-id": 10565,
+    "face": SOUTH,
+    "position": {
+      "x": 2630,
+      "y": 5086,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Subleather Ranger
+    "npc-id": 10327,
+    "face": SOUTH,
+    "position": {
+      "x": 2678,
+      "y": 5080,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Subleather Ranger
+    "npc-id": 10327,
+    "face": SOUTH,
+    "position": {
+      "x": 2672,
+      "y": 5075,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Zephyrium Warrior
+    "npc-id": 10443,
+    "face": SOUTH,
+    "position": {
+      "x": 2691,
+      "y": 5087,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Zephyrium Warrior
+    "npc-id": 10443,
+    "face": SOUTH,
+    "position": {
+      "x": 2698,
+      "y": 5085,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Roseblood Mage
+    "npc-id": 10586,
+    "face": SOUTH,
+    "position": {
+      "x": 2698,
+      "y": 5075,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Roseblood Mage
+    "npc-id": 10586,
+    "face": SOUTH,
+    "position": {
+      "x": 2692,
+      "y": 5070,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Spinoleather Ranger
+    "npc-id": 10342,
+    "face": SOUTH,
+    "position": {
+      "x": 2695,
+      "y": 5060,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Spinoleather Ranger
+    "npc-id": 10342,
+    "face": SOUTH,
+    "position": {
+      "x": 2704,
+      "y": 5064,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Zephyrium Warrior
+    "npc-id": 10443,
+    "face": SOUTH,
+    "position": {
+      "x": 2712,
+      "y": 5060,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Zephyrium Warrior
+    "npc-id": 10443,
+    "face": SOUTH,
+    "position": {
+      "x": 2729,
+      "y": 5060,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Roseblood Mage
+    "npc-id": 10586,
+    "face": SOUTH,
+    "position": {
+      "x": 2744,
+      "y": 5064,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Promethium Warrior
+    "npc-id": 10511,
+    "face": SOUTH,
+    "position": {
+      "x": 2693,
+      "y": 5101,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Promethium Warrior
+    "npc-id": 10511,
+    "face": SOUTH,
+    "position": {
+      "x": 2702,
+      "y": 5093,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Spiritbloom Mage
+    "npc-id": 10599,
+    "face": SOUTH,
+    "position": {
+      "x": 2709,
+      "y": 5088,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Spiritbloom Mage
+    "npc-id": 10599,
+    "face": SOUTH,
+    "position": {
+      "x": 2719,
+      "y": 5078,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Tyrannoleather Ranger
+    "npc-id": 10352,
+    "face": SOUTH,
+    "position": {
+      "x": 2726,
+      "y": 5075,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Tyrannoleather Ranger
+    "npc-id": 10352,
+    "face": SOUTH,
+    "position": {
+      "x": 2696,
+      "y": 5114,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Promethium Warrior
+    "npc-id": 10511,
+    "face": SOUTH,
+    "position": {
+      "x": 2692,
+      "y": 5110,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Promethium Warrior
+    "npc-id": 10511,
+    "face": SOUTH,
+    "position": {
+      "x": 2694,
+      "y": 5105,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Spiritbloom Mage
+    "npc-id": 10599,
+    "face": SOUTH,
+    "position": {
+      "x": 2716,
+      "y": 5106,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Spiritbloom Mage
+    "npc-id": 10599,
+    "face": SOUTH,
+    "position": {
+      "x": 2710,
+      "y": 55105,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Tyrannoleather Ranger
+    "npc-id": 10352,
+    "face": SOUTH,
+    "position": {
+      "x": 2723,
+      "y": 5113,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Primal Warrior
+    "npc-id": 10547,
+    "face": SOUTH,
+    "position": {
+      "x": 2679,
+      "y": 5115,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Primal Warrior
+    "npc-id": 10547,
+    "face": SOUTH,
+    "position": {
+      "x": 2677,
+      "y": 5100,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Celestial Mage
+    "npc-id": 10603,
+    "face": SOUTH,
+    "position": {
+      "x": 2680,
+      "y": 5090,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Celestial Mage
+    "npc-id": 10603,
+    "face": SOUTH,
+    "position": {
+      "x": 2665,
+      "y": 5097,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Sagittarian Ranger
+    "npc-id": 10362,
+    "face": SOUTH,
+    "position": {
+      "x": 2654,
+      "y": 5092,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Sagittarian Ranger
+    "npc-id": 10362,
+    "face": SOUTH,
+    "position": {
+      "x": 2655,
+      "y": 5114,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Primal Warrior
+    "npc-id": 10547,
+    "face": SOUTH,
+    "position": {
+      "x": 2644,
+      "y": 5117,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Primal Warrior
+    "npc-id": 10547,
+    "face": SOUTH,
+    "position": {
+      "x": 2634,
+      "y": 5114,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Celestial Mage
+    "npc-id": 10603,
+    "face": SOUTH,
+    "position": {
+      "x": 2629,
+      "y": 5107,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Celestial Mage
+    "npc-id": 10603,
+    "face": SOUTH,
+    "position": {
+      "x": 2629,
+      "y": 5097,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Primal Warrior
+    "npc-id": 10547,
+    "face": SOUTH,
+    "position": {
+      "x": 2315,
+      "y": 5230,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Primal Warrior
+    "npc-id": 10547,
+    "face": SOUTH,
+    "position": {
+      "x": 2315,
+      "y": 5227,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Celestial Mage
+    "npc-id": 10603,
+    "face": SOUTH,
+    "position": {
+      "x": 2320,
+      "y": 5230,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Celestial Mage
+    "npc-id": 10603,
+    "face": SOUTH,
+    "position": {
+      "x": 2320,
+      "y": 5227,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  },
+  {
+    //Thok
+    "npc-id": 9713,
+    "face": SOUTH,
+    "position": {
+      "x": 2669,
+      "y": 5076,
+      "z": 0
+    },
+    "walking-policy": {
+      "coordinate": true,
+      "radius": 3
+    }
+  }
+]

@@ -1,0 +1,1379 @@
+[
+
+{ //Abberant Spectre
+  "npcIds": [1604],
+  "drops": [
+    { "id": 200 , "count": [2], "chance": 2},
+    { "id": 202 , "count": [2], "chance": 2},
+    { "id": 204 , "count": [2], "chance": 2},
+    { "id": 206 , "count": [2], "chance": 2},
+    { "id": 208 , "count": [2], "chance": 2},
+    { "id": 210 , "count": [2], "chance": 2},
+    { "id": 212 , "count": [2], "chance": 2},
+    { "id": 214 , "count": [2], "chance": 2},
+    { "id": 216 , "count": [2], "chance": 2},
+    { "id": 218 , "count": [2], "chance": 2},
+    { "id": 220 , "count": [2], "chance": 2},
+    { "id": 2486 , "count": [2], "chance": 3},
+    { "id": 3052 , "count": [2], "chance": 3},
+    { "id": 3050 , "count": [2], "chance": 3},
+    { "id": 203241 , "count": [1], "chance": 6},
+    { "id": 212021 , "count": [1], "chance": 6}
+  ]
+},
+
+  { //Abyssal Demon
+    "npcIds": [1615],
+    "drops": [
+      { "id": 7937 , "count": [200], "chance": 3},
+      { "id": 4151 , "count": [1], "chance": 6},
+      { "id": 7979 , "count": [1], "chance": 7},
+      { "id": 13047 , "count": [1], "chance": 10},
+      { "id": 203246 , "count": [1], "chance": 4},
+      { "id": 212542 , "count": [1], "chance": 6}
+    ]
+  },
+
+{ //Abyssal Sire
+  "npcIds": [5886],
+  "drops": [
+    { "id": 4151 , "count": [1], "chance": 8}, //abyssal whip
+    { "id": 13045 , "count": [1], "chance": 8}, //abyssal bludgeon
+    { "id": 7979 , "count": [1], "chance": 6}, //abyssal head
+    { "id": 13047 , "count": [1], "chance": 7}, //abyssal dager
+    { "id": 20090 , "count": [1], "chance": 12}, //pet
+    { "id": 12158 , "count": [150], "chance": 3}, //Gold Charm
+    { "id": 12160 , "count": [150], "chance": 3}, //Crimson Charm
+    { "id": 12159 , "count": [150], "chance": 3}, //Green Charm
+    { "id": 12163 , "count": [150], "chance": 3}, //Blue Charm
+    { "id": 219782 , "count": [1], "chance": 6} //elite clue
+  ]
+},
+
+{ //Aquanite
+  "npcIds": [9172],
+  "drops": [
+    { "id": 15126 , "count": [1], "chance": 7}, //amulet of ranging
+    { "id": 212542 , "count": [1], "chance": 6} //hard clue
+  ]
+},
+
+{ //Baby Blue Dragon
+  "npcIds": [52],
+  "drops": [
+    { "id": 535 , "count": [1], "chance": 0}
+  ]
+},
+
+{ //Banshee
+  "npcIds": [1612],
+  "drops": [
+    { "id": 554 , "count": [50], "chance": 2},
+    { "id": 555 , "count": [50], "chance": 2},
+    { "id": 556 , "count": [50], "chance": 2},
+    { "id": 557 , "count": [50], "chance": 2},
+    { "id": 558 , "count": [50], "chance": 2},
+    { "id": 562 , "count": [25], "chance": 2},
+    { "id": 203232 , "count": [1], "chance": 9},
+    { "id": 219833 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Barrows Raid
+  "npcIds": [6],
+  "drops": [
+    { "id": 4708 , "count": [1], "chance": 5},
+    { "id": 4710 , "count": [1], "chance": 5},
+    { "id": 4712 , "count": [1], "chance": 5},
+    { "id": 4714 , "count": [1], "chance": 5},
+    { "id": 4716 , "count": [1], "chance": 5},
+    { "id": 4718 , "count": [1], "chance": 5},
+    { "id": 4720 , "count": [1], "chance": 5},
+    { "id": 4722 , "count": [1], "chance": 5},
+    { "id": 4724 , "count": [1], "chance": 5},
+    { "id": 4726 , "count": [1], "chance": 5},
+    { "id": 4728 , "count": [1], "chance": 5},
+    { "id": 4730 , "count": [1], "chance": 5},
+    { "id": 4732 , "count": [1], "chance": 5},
+    { "id": 4734 , "count": [1], "chance": 5},
+    { "id": 4736 , "count": [1], "chance": 5},
+    { "id": 4738 , "count": [1], "chance": 5},
+    { "id": 4745 , "count": [1], "chance": 5},
+    { "id": 4747 , "count": [1], "chance": 5},
+    { "id": 4749 , "count": [1], "chance": 5},
+    { "id": 4751 , "count": [1], "chance": 5},
+    { "id": 4753 , "count": [1], "chance": 5},
+    { "id": 4755 , "count": [1], "chance": 5},
+    { "id": 4757 , "count": [1], "chance": 5},
+    { "id": 4759 , "count": [1], "chance": 5},
+    { "id": 18845 , "count": [1], "chance": 5},
+    { "id": 20104 , "count": [1], "chance": 12}
+  ]
+},
+
+{ //Basilisk
+  "npcIds": [1616],
+  "drops": [
+    { "id": 208 , "count": [4], "chance": 2},
+    { "id": 210 , "count": [4], "chance": 2},
+    { "id": 212 , "count": [4], "chance": 2},
+    { "id": 214 , "count": [4], "chance": 2},
+    { "id": 216 , "count": [4], "chance": 2},
+    { "id": 203235 , "count": [1], "chance": 8},
+    { "id": 219833 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Black Dragon
+  "npcIds": [54],
+  "drops": [
+    { "id": 2510 , "count": [1], "chance": 0},
+    { "id": 537 , "count": [1], "chance": 0},
+    { "id": 11979 , "count": [1], "chance": 12},
+    { "id": 212542 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Bloodveld
+  "npcIds": [1618],
+  "drops": [
+    { "id": 4604 , "count": [5], "chance": 6},
+    { "id": 378 , "count": [25], "chance": 2},
+    { "id": 384 , "count": [15], "chance": 2},
+    { "id": 390 , "count": [10], "chance": 2},
+    { "id": 565 , "count": [40], "chance": 2},
+    { "id": 203237 , "count": [1], "chance": 7},
+    { "id": 212021 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Blue Dragon
+  "npcIds": [55],
+  "drops": [
+    { "id": 2506 , "count": [1], "chance": 0},
+    { "id": 537 , "count": [1], "chance": 0},
+    { "id": 11981 , "count": [1], "chance": 12},
+    { "id": 212542 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Bronze Dragons
+  "npcIds": [1590],
+  "drops": [
+    { "id": 2350 , "count": [5], "chance": 0},
+    { "id": 537 , "count": [1], "chance": 0},
+    { "id": 1149 , "count": [1], "chance": 9},
+    { "id": 4087 , "count": [1], "chance": 9},
+    { "id": 4585 , "count": [1], "chance": 9},
+    { "id": 1187 , "count": [1], "chance": 8},
+    { "id": 1215 , "count": [1], "chance": 8},
+    { "id": 1377 , "count": [1], "chance": 8},
+    { "id": 11286 , "count": [1], "chance": 12},
+    { "id": 212542 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Callisto
+  "npcIds": [2009],
+  "drops": [
+    { "id": 15259 , "count": [1], "chance": 7}, //dragon pick
+    { "id": 12603 , "count": [1], "chance": 6}, //Tyrannical ring
+    { "id": 12605 , "count": [1], "chance": 6}, //Treasonous ring
+    { "id": 7158 , "count": [1], "chance": 6}, //dragon 2h
+    { "id": 20085 , "count": [1], "chance": 8}, //pet
+    { "id": 219782 , "count": [1], "chance": 5} //elite clue
+  ]
+},
+
+{ //Cave Crawler
+  "npcIds": [1600, 1601, 1602, 1603],
+  "drops": [
+    { "id": 200 , "count": [2], "chance": 2},
+    { "id": 202 , "count": [2], "chance": 2},
+    { "id": 204 , "count": [2], "chance": 2},
+    { "id": 206 , "count": [2], "chance": 2},
+    { "id": 208 , "count": [2], "chance": 3},
+    { "id": 203231 , "count": [1], "chance": 10},
+    { "id": 219833 , "count": [1], "chance": 6}
+  ]
+},
+
+  { //Cave Horror
+    "npcIds": [15047],
+    "drops": [
+      { "id": 200 , "count": [2], "chance": 2},
+      { "id": 202 , "count": [2], "chance": 2},
+      { "id": 204 , "count": [2], "chance": 2},
+      { "id": 206 , "count": [2], "chance": 2},
+      { "id": 208 , "count": [2], "chance": 2},
+      { "id": 210 , "count": [2], "chance": 2},
+      { "id": 212 , "count": [2], "chance": 2},
+      { "id": 214 , "count": [2], "chance": 2},
+      { "id": 216 , "count": [2], "chance": 2},
+      { "id": 218 , "count": [2], "chance": 2},
+      { "id": 220 , "count": [2], "chance": 2},
+      { "id": 2486 , "count": [2], "chance": 3},
+      { "id": 3052 , "count": [2], "chance": 3},
+      { "id": 3050 , "count": [2], "chance": 3},
+      { "id": 8921 , "count": [1], "chance": 7},
+      { "id": 212021 , "count": [1], "chance": 6}
+    ]
+  },
+
+{ //Cerberus
+  "npcIds": [1999],
+  "drops": [
+    { "id": 6640 , "count": [1], "chance": 7}, //primordial
+    { "id": 6642 , "count": [1], "chance": 7}, //pegasian
+    { "id": 6645 , "count": [1], "chance": 7}, //eternal
+    { "id": 20080 , "count": [1], "chance": 12}, //pet
+    { "id": 12158 , "count": [150], "chance": 3}, //Gold Charm
+    { "id": 12160 , "count": [150], "chance": 3}, //Crimson Charm
+    { "id": 12159 , "count": [150], "chance": 3}, //Green Charm
+    { "id": 12163 , "count": [150], "chance": 3}, //Blue Charm
+    { "id": 219782 , "count": [1], "chance": 6}
+  ]
+},
+
+
+{ //Chambers of Xeric
+  "npcIds": [5],
+  "drops": [
+    { "id": 20998 , "count": [1], "chance": 7}, //Twisted Bow
+    { "id": 4450 , "count": [1], "chance": 7}, //Elder Maul
+    { "id": 4454 , "count": [1], "chance": 7}, //Kodai Wand
+    { "id": 14484 , "count": [1], "chance": 6}, //dragon claws
+    { "id": 18888 , "count": [1], "chance": 6}, //Ancestral Hat
+    { "id": 18889 , "count": [1], "chance": 6}, //Ancestral Top
+    { "id": 18890 , "count": [1], "chance": 6}, //Ancestral Bottoms
+    { "id": 4452 , "count": [1], "chance": 5}, //Twisted Buckler
+    { "id": 18844 , "count": [1], "chance": 5}, //Dragonhunter Crossbow
+    { "id": 220851 , "count": [1], "chance": 12} //Olmlet
+  ]
+},
+{ //Chaos Elemental
+  "npcIds": [3200],
+  "drops": [
+    { "id": 15259 , "count": [1], "chance": 7}, //dragon pick
+    { "id": 7158 , "count": [1], "chance": 6}, //dragon 2h
+    { "id": 19780 , "count": [1], "chance": 6}, //korasi
+    { "id": 11995 , "count": [1], "chance": 8}, //pet
+    { "id": 219782 , "count": [1], "chance": 5} //elite clue
+  ]
+},
+
+  { //Chicken
+    "npcIds": [41],
+    "drops": [
+      { "id": 314 , "count": [50], "chance": 0},
+      { "id": 2138 , "count": [1], "chance": 0},
+      { "id": 219833 , "count": [1], "chance": 6}
+    ]
+  },
+
+  { //Cockatrice
+    "npcIds": [1621],
+    "drops": [
+      { "id": 314 , "count": [50], "chance": 0},
+      { "id": 2138 , "count": [1], "chance": 0},
+      { "id": 203233 , "count": [1], "chance": 9},
+      { "id": 219833 , "count": [1], "chance": 6}
+    ]
+  },
+
+{ //Zilyana
+  "npcIds": [6247],
+  "drops": [
+    { "id": 14793 , "count": [1], "chance": 0},
+    { "id": 11706 , "count": [1], "chance": 8},
+    { "id": 11690 , "count": [1], "chance": 7},
+    { "id": 11730 , "count": [1], "chance": 6},
+    { "id": 13051 , "count": [1], "chance": 8},
+    { "id": 12004 , "count": [1], "chance": 12},
+    { "id": 6686 , "count": [5], "chance": 3}, //Saradomin Brew (4)
+    { "id": 3025 , "count": [5], "chance": 3}, //Super Restore (4)
+    { "id": 11212 , "count": [150], "chance": 3}, //Dragon arrow
+    { "id": 565 , "count": [150], "chance": 3}, //Blood rune
+    { "id": 219782 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Saradomin Minion
+  "npcIds": [6248, 6250, 6252],
+  "drops": [
+    { "id": 11730 , "count": [1], "chance": 12}
+  ]
+},
+
+{ //Corporeal Beast
+  "npcIds": [8133],
+  "drops": [
+    { "id": 13734 , "count": [1], "chance": 5},
+    { "id": 13754 , "count": [1], "chance": 6},
+    { "id": 13752 , "count": [1], "chance": 10},
+    { "id": 13746 , "count": [1], "chance": 10},
+    { "id": 13750 , "count": [1], "chance": 11},
+    { "id": 13748 , "count": [1], "chance": 11},
+    { "id": 12001 , "count": [1], "chance": 12},
+    { "id": 11230 , "count": [250], "chance": 4},
+    { "id": 219782 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Cow
+  "npcIds": [81],
+  "drops": [
+    { "id": 1742 , "count": [2], "chance": 0},
+    { "id": 2132 , "count": [1], "chance": 0},
+    { "id": 219833 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Crawling hand
+  "npcIds": [1648, 1649, 1650, 1651, 1652, 1653, 1654, 1655, 1656, 1657],
+  "drops": [
+    { "id": 2550 , "count": [1], "chance": 2},
+    { "id": 2568 , "count": [1], "chance": 3},
+    { "id": 2570 , "count": [1], "chance": 4},
+    { "id": 2572 , "count": [1], "chance": 6},
+    { "id": 11126 , "count": [1], "chance": 6},
+    { "id": 203230 , "count": [1], "chance": 10},
+    { "id": 219833 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Dagannoth Prime
+  "npcIds": [2882],
+  "drops": [
+    { "id": 6730 , "count": [2], "chance": 0},
+    { "id": 3755 , "count": [1], "chance": 3},
+    { "id": 6731 , "count": [1], "chance": 5},
+    { "id": 6739 , "count": [1], "chance": 6},
+    { "id": 211905 , "count": [1], "chance": 6},
+    { "id": 12006 , "count": [1], "chance": 12},
+    { "id": 560 , "count": [100], "chance": 2}, //Death rune
+    { "id": 565 , "count": [100], "chance": 3}, //Blood rune
+    { "id": 219782 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Dagannoth Rex
+  "npcIds": [2883],
+  "drops": [
+    { "id": 6730 , "count": [2], "chance": 0},
+    { "id": 3753 , "count": [1], "chance": 4},
+    { "id": 3751 , "count": [1], "chance": 4},
+    { "id": 10828 , "count": [1], "chance": 5},
+    { "id": 6737 , "count": [1], "chance": 5},
+    { "id": 6735 , "count": [1], "chance": 5},
+    { "id": 6739 , "count": [1], "chance": 6},
+    { "id": 15403 , "count": [1], "chance": 6},
+    { "id": 11990 , "count": [1], "chance": 12},
+    { "id": 2362 , "count": [100], "chance": 3}, //Adamant Bar
+    { "id": 2364 , "count": [20], "chance": 4}, //Rune bar
+    { "id": 219782 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Dagannoth Supreme
+  "npcIds": [2881],
+  "drops": [
+    { "id": 6730 , "count": [2], "chance": 0},
+    { "id": 3749 , "count": [1], "chance": 3},
+    { "id": 6733 , "count": [1], "chance": 5},
+    { "id": 6739 , "count": [1], "chance": 6},
+    { "id": 6724 , "count": [1], "chance": 6},
+    { "id": 12005 , "count": [1], "chance": 12},
+    { "id": 1516 , "count": [100], "chance": 2}, //Yews
+    { "id": 1514 , "count": [100], "chance": 3}, //Magics
+    { "id": 219782 , "count": [1], "chance": 6}
+  ]
+},
+
+  { //Dark Beast
+    "npcIds": [2783],
+    "drops": [
+      { "id": 11235 , "count": [1], "chance": 6},
+      { "id": 207 , "count": [8], "chance": 2},
+      { "id": 209 , "count": [8], "chance": 2},
+      { "id": 211 , "count": [8], "chance": 2},
+      { "id": 213 , "count": [8], "chance": 2},
+      { "id": 215 , "count": [8], "chance": 2},
+      { "id": 217 , "count": [8], "chance": 2},
+      { "id": 219 , "count": [8], "chance": 2},
+      { "id": 2485 , "count": [8], "chance": 2},
+      { "id": 3051 , "count": [8], "chance": 2},
+      { "id": 3049 , "count": [8], "chance": 2},
+      { "id": 203247 , "count": [1], "chance": 4},
+      { "id": 212542 , "count": [1], "chance": 6}
+    ]
+  },
+
+
+{ //Desert Strykewyrm
+  "npcIds": [9465],
+  "drops": [
+    { "id": 20580 , "count": [1], "chance": 7}, //tome of fire
+    { "id": 15490 , "count": [1], "chance": 7}, //focus sight
+    { "id": 11985 , "count": [1], "chance": 10}, //pet
+    { "id": 212542 , "count": [1], "chance": 6}, //hard clue
+    { "id": 5295 , "count": [3], "chance": 3}, //Ranarr Seed
+    { "id": 5296 , "count": [3], "chance": 3}, //Toadflax Seed
+    { "id": 5297 , "count": [3], "chance": 3}, //Irit Seed
+    { "id": 5298 , "count": [3], "chance": 3}, //Avantoe Seed
+    { "id": 5299 , "count": [3], "chance": 3}, //Kwaurm Seed
+    { "id": 5300 , "count": [3], "chance": 3}, //Snapdragon Seed
+    { "id": 5301 , "count": [3], "chance": 3}, //Cadantine Seed
+    { "id": 5302 , "count": [3], "chance": 3}, //Lantadyme Seed
+    { "id": 5303 , "count": [3], "chance": 3} //Dwarf Weed Seed
+  ]
+},
+
+{ //Frost Dragon
+  "npcIds": [51],
+  "drops": [
+    { "id": 18831 , "count": [1], "chance": 0},
+    { "id": 11991 , "count": [1], "chance": 12},
+    { "id": 212542 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Gargoyle
+  "npcIds": [1610, 1611],
+  "drops": [
+    { "id": 4153 , "count": [1], "chance": 6},
+    { "id": 203244 , "count": [1], "chance": 5},
+    { "id": 212542 , "count": [1], "chance": 6},
+    { "id": 5295 , "count": [5], "chance": 3}, //Ranarr Seed
+    { "id": 5296 , "count": [5], "chance": 3}, //Toadflax Seed
+    { "id": 5297 , "count": [5], "chance": 3}, //Irit Seed
+    { "id": 5298 , "count": [5], "chance": 3}, //Avantoe Seed
+    { "id": 5299 , "count": [5], "chance": 3}, //Kwaurm Seed
+    { "id": 5300 , "count": [5], "chance": 3}, //Snapdragon Seed
+    { "id": 5301 , "count": [5], "chance": 3}, //Cadantine Seed
+    { "id": 5302 , "count": [5], "chance": 3}, //Lantadyme Seed
+    { "id": 5303 , "count": [5], "chance": 3} //Dwarf Weed Seed
+  ]
+},
+
+{ //Glacio
+  "npcIds": [4540],
+  "drops": [
+    { "id": 18347 , "count": [1], "chance": 7},
+    { "id": 222981 , "count": [1], "chance": 7},
+    { "id": 4448 , "count": [1], "chance": 8},
+    { "id": 11988 , "count": [1], "chance": 12},
+    { "id": 219782 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Graar'dor
+  "npcIds": [6260],
+  "drops": [
+    { "id": 14793 , "count": [1], "chance": 0},
+    { "id": 11704 , "count": [1], "chance": 8},
+    { "id": 11690 , "count": [1], "chance": 7},
+    { "id": 11724 , "count": [1], "chance": 7},
+    { "id": 11726 , "count": [1], "chance": 7},
+    { "id": 11728 , "count": [1], "chance": 7},
+    { "id": 11997 , "count": [1], "chance": 12},
+    { "id": 6686 , "count": [5], "chance": 3}, //Saradomin Brew (4)
+    { "id": 3025 , "count": [5], "chance": 3}, //Super Restore (4)
+    { "id": 2362 , "count": [150], "chance": 3}, //Adamant Bar
+    { "id": 2364 , "count": [50], "chance": 4}, //Rune bar
+    { "id": 219782 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Bandos Minion
+  "npcIds": [6261, 6263, 6265],
+  "drops": [
+    { "id": 11724 , "count": [1], "chance": 12},
+    { "id": 11726 , "count": [1], "chance": 12},
+    { "id": 11728 , "count": [1], "chance": 12}
+  ]
+},
+
+{ //Giant Mole
+  "npcIds": [3340],
+  "drops": [
+    { "id": 5073 , "count": [100], "chance": 3}, //Bird Nests
+    { "id": 20558 , "count": [1], "chance": 7}, //Mole jaw
+    { "id": 386 , "count": [50], "chance": 3}, //Shark
+    { "id": 219782 , "count": [1], "chance": 6}, 
+    { "id": 212646 , "count": [1], "chance": 12} //pet
+  ]
+},
+
+{ //Green Dragon
+  "npcIds": [941, 5362],
+  "drops": [
+    { "id": 1746 , "count": [1], "chance": 0},
+    { "id": 537 , "count": [1], "chance": 0},
+    { "id": 11983 , "count": [1], "chance": 12},
+    { "id": 212542 , "count": [1], "chance": 6}
+  ]
+},
+
+
+  { //Hill Giants
+    "npcIds": [117],
+    "drops": [
+      { "id": 532 , "count": [2], "chance": 0}
+    ]
+  },
+
+  { //Ice Strykewyrm
+    "npcIds": [9463],
+    "drops": [
+      { "id": 18346 , "count": [1], "chance": 7}, //tome of frost
+      { "id": 15486 , "count": [1], "chance": 7}, //Staff of Light
+      { "id": 11984 , "count": [1], "chance": 10}, //pet
+      { "id": 212542 , "count": [1], "chance": 6}, //hard clue
+      { "id": 5295 , "count": [5], "chance": 3}, //Ranarr Seed
+      { "id": 5296 , "count": [5], "chance": 3}, //Toadflax Seed
+      { "id": 5297 , "count": [5], "chance": 3}, //Irit Seed
+      { "id": 5298 , "count": [5], "chance": 3}, //Avantoe Seed
+      { "id": 5299 , "count": [5], "chance": 3}, //Kwaurm Seed
+      { "id": 5300 , "count": [5], "chance": 3}, //Snapdragon Seed
+      { "id": 5301 , "count": [5], "chance": 3}, //Cadantine Seed
+      { "id": 5302 , "count": [5], "chance": 3}, //Lantadyme Seed
+      { "id": 5303 , "count": [5], "chance": 3} //Dwarf Weed Seed
+    ]
+  },
+
+{ //Infernal Mage
+  "npcIds": [1643, 1644, 1645, 1646, 1647],
+  "drops": [
+    { "id": 6916 , "count": [1], "chance": 7},
+    { "id": 6918 , "count": [1], "chance": 7},
+    { "id": 6920 , "count": [1], "chance": 7},
+    { "id": 6922 , "count": [1], "chance": 7},
+    { "id": 6924 , "count": [1], "chance": 7},
+    { "id": 560 , "count": [25], "chance": 2},
+    { "id": 561 , "count": [25], "chance": 2},
+    { "id": 562 , "count": [25], "chance": 2},
+    { "id": 203236 , "count": [1], "chance": 7},
+    { "id": 212021 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Iron Dragons
+  "npcIds": [1591],
+  "drops": [
+    { "id": 2352 , "count": [5], "chance": 0},
+    { "id": 537 , "count": [1], "chance": 0},
+    { "id": 1149 , "count": [1], "chance": 8},
+    { "id": 4087 , "count": [1], "chance": 8},
+    { "id": 4585 , "count": [1], "chance": 8},
+    { "id": 1187 , "count": [1], "chance": 7},
+    { "id": 1215 , "count": [1], "chance": 7},
+    { "id": 1377 , "count": [1], "chance": 7},
+    { "id": 11286 , "count": [1], "chance": 12},
+    { "id": 212542 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Jelly
+  "npcIds": [1640],
+  "drops": [
+    { "id": 232 , "count": [10], "chance": 2},
+    { "id": 1976 , "count": [10], "chance": 2},
+    { "id": 226 , "count": [10], "chance": 2},
+    { "id": 222 , "count": [10], "chance": 2},
+    { "id": 236 , "count": [10], "chance": 2},
+    { "id": 240 , "count": [10], "chance": 2},
+    { "id": 224 , "count": [10], "chance": 2},
+    { "id": 212021 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Jungle Strykewyrm
+  "npcIds": [9467],
+  "drops": [
+    { "id": 11986 , "count": [1], "chance": 10}, //pet
+    { "id": 15488 , "count": [1], "chance": 7}, //Hexcrest
+    { "id": 212542 , "count": [1], "chance": 6}, //hard clue
+    { "id": 5295 , "count": [5], "chance": 3}, //Ranarr Seed
+    { "id": 5296 , "count": [5], "chance": 3}, //Toadflax Seed
+    { "id": 5297 , "count": [5], "chance": 3}, //Irit Seed
+    { "id": 5298 , "count": [5], "chance": 3}, //Avantoe Seed
+    { "id": 5299 , "count": [5], "chance": 3}, //Kwaurm Seed
+    { "id": 5300 , "count": [5], "chance": 3}, //Snapdragon Seed
+    { "id": 5301 , "count": [5], "chance": 3}, //Cadantine Seed
+    { "id": 5302 , "count": [5], "chance": 3}, //Lantadyme Seed
+    { "id": 5303 , "count": [5], "chance": 3} //Dwarf Weed Seed
+  ]
+},
+
+{ //K'ril Tsustaroth
+  "npcIds": [6203],
+  "drops": [
+    { "id": 14793 , "count": [1], "chance": 0},
+    { "id": 11716 , "count": [1], "chance": 6},
+    { "id": 11708 , "count": [1], "chance": 7},
+    { "id": 11690 , "count": [1], "chance": 7},
+    { "id": 12003 , "count": [1], "chance": 12},
+    { "id": 6686 , "count": [5], "chance": 3}, //Saradomin Brew (4)
+    { "id": 3025 , "count": [5], "chance": 3}, //Super Restore (4)
+    { "id": 565 , "count": [150], "chance": 3}, //Blood rune
+    { "id": 566 , "count": [150], "chance": 4}, //Soul rune
+    { "id": 219782 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Zamorak Minion
+  "npcIds": [6204, 6206, 6208],
+  "drops": [
+    { "id": 11716 , "count": [1], "chance": 12}
+  ]
+},
+
+  { //Kalphite Queen
+    "npcIds": [1158,1159],
+    "drops": [
+      { "id": 20555 , "count": [1], "chance": 8},
+      { "id": 7981 , "count": [1], "chance": 6},
+      { "id": 3140 , "count": [1], "chance": 6},
+      { "id": 19982  , "count": [1], "chance": 7},
+      { "id": 11993  , "count": [1], "chance": 12},
+      { "id": 219782 , "count": [1], "chance": 6}
+    ]
+  },
+
+{ //KBD
+  "npcIds": [50],
+  "drops": [
+    { "id": 222124 , "count": [1], "chance": 0},
+    { "id": 2510 , "count": [3], "chance": 0},
+    { "id": 7980 , "count": [1], "chance": 6},
+    { "id": 11613 , "count": [1], "chance": 7},
+    { "id": 14472 , "count": [1], "chance": 8},
+    { "id": 11286 , "count": [1], "chance": 11},
+    { "id": 4453 , "count": [1], "chance": 7},
+    { "id": 11996 , "count": [1], "chance": 12},
+    { "id": 2510 , "count": [100], "chance": 3}, //Black D-Leather
+    { "id": 537 , "count": [50], "chance": 3}, //Dragon Bones
+    { "id": 15273 , "count": [50], "chance": 6}, //Rocktail
+    { "id": 219782 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Kree'arra
+  "npcIds": [6222],
+  "drops": [
+    { "id": 14793 , "count": [1], "chance": 0},
+    { "id": 11702 , "count": [1], "chance": 8},
+    { "id": 11690 , "count": [1], "chance": 7},
+    { "id": 11718 , "count": [1], "chance": 7},
+    { "id": 11720 , "count": [1], "chance": 7},
+    { "id": 11722 , "count": [1], "chance": 7},
+    { "id": 12002 , "count": [1], "chance": 12},
+    { "id": 6686 , "count": [5], "chance": 3}, //Saradomin Brew (4)
+    { "id": 3025 , "count": [5], "chance": 3}, //Super Restore (4)
+    { "id": 9243 , "count": [150], "chance": 3}, //Diamond bolt (e)
+    { "id": 9244 , "count": [150], "chance": 4}, //Dragon bolt (e)
+    { "id": 219782 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Armadyl Minion
+  "npcIds": [6223, 6225, 6227],
+  "drops": [
+    { "id": 11718 , "count": [1], "chance": 12},
+    { "id": 11720 , "count": [1], "chance": 12},
+    { "id": 11722 , "count": [1], "chance": 12}
+  ]
+},
+
+{ //Kurask
+  "npcIds": [1608],
+  "drops": [
+    { "id": 1163 , "count": [1], "chance": 5},
+    { "id": 1127 , "count": [1], "chance": 5},
+    { "id": 1079 , "count": [1], "chance": 5},
+    { "id": 1201 , "count": [1], "chance": 5},
+    { "id": 1333 , "count": [1], "chance": 5},
+    { "id": 4131 , "count": [1], "chance": 5},
+    { "id": 203243 , "count": [1], "chance": 5},
+    { "id": 212542 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Mithril Dragons
+  "npcIds": [5363],
+  "drops": [
+    { "id": 2360 , "count": [5], "chance": 0},
+    { "id": 537 , "count": [1], "chance": 0},
+    { "id": 11335 , "count": [1], "chance": 11},
+    { "id": 1149 , "count": [1], "chance": 6},
+    { "id": 4087 , "count": [1], "chance": 6},
+    { "id": 4585 , "count": [1], "chance": 6},
+    { "id": 1187 , "count": [1], "chance": 5},
+    { "id": 11613 , "count": [1], "chance": 11},
+    { "id": 11286 , "count": [1], "chance": 11},
+    { "id": 212542 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Nechryael
+  "npcIds": [1613],
+  "drops": [
+    { "id": 18834 , "count": [5], "chance": 2},
+    { "id": 12539 , "count": [5], "chance": 2},
+    { "id": 9594 , "count": [5], "chance": 2},
+    { "id": 4621 , "count": [5], "chance": 2},
+    { "id": 5973 , "count": [5], "chance": 2},
+    { "id": 6694 , "count": [5], "chance": 2},
+    { "id": 246 , "count": [5], "chance": 2},
+    { "id": 240 , "count": [5], "chance": 2},
+    { "id": 6050 , "count": [5], "chance": 2},
+    { "id": 3139 , "count": [5], "chance": 2},
+    { "id": 242 , "count": [5], "chance": 2},
+    { "id": 248 , "count": [5], "chance": 2},
+    { "id": 203245 , "count": [1], "chance": 5},
+    { "id": 6746 , "count": [1], "chance": 6},
+    { "id": 212542 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Nex
+  "npcIds": [13447],
+  "drops": [
+    { "id": 14008 , "count": [1], "chance": 7}, //torva helm
+    { "id": 14009 , "count": [1], "chance": 7}, //torva body
+    { "id": 14010 , "count": [1], "chance": 7}, //torva legs
+    { "id": 14011 , "count": [1], "chance": 7}, //pernix cowl
+    { "id": 14012 , "count": [1], "chance": 7}, //pernix body
+    { "id": 14013 , "count": [1], "chance": 7}, //pernix legs
+    { "id": 14014 , "count": [1], "chance": 7}, //virtus mask
+    { "id": 14015 , "count": [1], "chance": 7}, //virtus body
+    { "id": 14016 , "count": [1], "chance": 7}, //virtus legs
+    { "id": 11987 , "count": [1], "chance": 12}, //pet
+    { "id": 18831 , "count": [100], "chance": 3}, //Frost Dragon Bones
+    { "id": 2364 , "count": [50], "chance": 3}, //Rune bar
+    { "id": 15332 , "count": [1], "chance": 3}, //Overload
+    { "id": 5304 , "count": [25], "chance": 3}, //Torstol Seed
+    { "id": 219782 , "count": [1], "chance": 6} //elite clue
+  ]
+},
+
+{ //Nightmare
+  "npcIds": [23425],
+  "drops": [
+    { "id": 224419 , "count": [1], "chance": 7}, //Inq helm
+    { "id": 224420 , "count": [1], "chance": 7}, //Inq body
+    { "id": 224421 , "count": [1], "chance": 7}, //Inq legs
+    { "id": 224417 , "count": [1], "chance": 7}, //Inq mace
+    { "id": 20568 , "count": [1], "chance": 6}, //Nightmare staff
+    { "id": 20572 , "count": [1], "chance": 8}, //Harmonised Orb
+    { "id": 20573 , "count": [1], "chance": 8}, //Volatile Orb
+    { "id": 20574 , "count": [1], "chance": 8}, //Eldritch Orb
+    { "id": 219782 , "count": [1], "chance": 6}, //Elite clue
+    { "id": 224491 , "count": [1], "chance": 12} //pet
+  ]
+},
+
+{ //Pyrefiend
+  "npcIds": [6216],
+  "drops": [
+    { "id": 226 , "count": [3], "chance": 2},
+    { "id": 224 , "count": [3], "chance": 2},
+    { "id": 222 , "count": [3], "chance": 2},
+    { "id": 236 , "count": [3], "chance": 2},
+    { "id": 176 , "count": [3], "chance": 2},
+    { "id": 203234 , "count": [1], "chance": 8},
+    { "id": 219833 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Red Dragon
+  "npcIds": [53],
+  "drops": [
+    { "id": 2508 , "count": [1], "chance": 0},
+    { "id": 537 , "count": [1], "chance": 0},
+    { "id": 212542 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Revenant Dark Beast
+  "npcIds": [6691],
+  "drops": [
+    { "id": 13899 , "count": [1], "chance": 9}, //VLS
+    { "id": 13905 , "count": [1], "chance": 9}, //Vesta's Spear
+    { "id": 13902 , "count": [1], "chance": 9}, //Statius Warhammer
+    { "id": 13867 , "count": [1], "chance": 9}, //Zuriel's Staff
+    { "id": 13879 , "count": [50], "chance": 9}, //Morrigan's Javelin
+    { "id": 14876 , "count": [1], "chance": 9}, //Ancient Statuette
+    { "id": 14877 , "count": [1], "chance": 9}, //Seren Statuette
+    { "id": 14878 , "count": [1], "chance": 9}, //Armadyl Statuette
+    { "id": 14879 , "count": [1], "chance": 8}, //Zamorak Statuette
+    { "id": 14880 , "count": [1], "chance": 8}, //Saradomin Statuette
+    { "id": 14881 , "count": [1], "chance": 8}, //Bandos Statuette
+    { "id": 14882 , "count": [1], "chance": 7}, //Ruby Chalice
+    { "id": 14883 , "count": [1], "chance": 7}  //Guthixian Brazier
+  ]
+},
+
+{ //Revenant Ork
+  "npcIds": [6725],
+  "drops": [
+    { "id": 13858 , "count": [1], "chance": 9}, //Zuriel top
+    { "id": 13870 , "count": [1], "chance": 9}, //Morrigan body
+    { "id": 13884 , "count": [1], "chance": 9}, //Statius platebody
+    { "id": 13887 , "count": [1], "chance": 9}, //Vesta platebody
+    { "id": 14876 , "count": [1], "chance": 9}, //Ancient Statuette
+    { "id": 14877 , "count": [1], "chance": 9}, //Seren Statuette
+    { "id": 14878 , "count": [1], "chance": 9}, //Armadyl Statuette
+    { "id": 14879 , "count": [1], "chance": 8}, //Zamorak Statuette
+    { "id": 14880 , "count": [1], "chance": 8}, //Saradomin Statuette
+    { "id": 14881 , "count": [1], "chance": 8}, //Bandos Statuette
+    { "id": 14882 , "count": [1], "chance": 8}, //Ruby Chalice
+    { "id": 14883 , "count": [1], "chance": 8}  //Guthixian Brazier
+  ]
+},
+
+{ //Revenant Werewolf
+  "npcIds": [6701],
+  "drops": [
+    { "id": 13861 , "count": [1], "chance": 9}, //Zuriel bottom
+    { "id": 13873 , "count": [1], "chance": 9}, //Morrigan chaps
+    { "id": 13890 , "count": [1], "chance": 9}, //Statius platelegs
+    { "id": 13893 , "count": [1], "chance": 9}, //Vesta platelegs
+    { "id": 14876 , "count": [1], "chance": 9}, //Ancient Statuette
+    { "id": 14877 , "count": [1], "chance": 9}, //Seren Statuette
+    { "id": 14878 , "count": [1], "chance": 9}, //Armadyl Statuette
+    { "id": 14879 , "count": [1], "chance": 8}, //Zamorak Statuette
+    { "id": 14880 , "count": [1], "chance": 8}, //Saradomin Statuette
+    { "id": 14881 , "count": [1], "chance": 8}, //Bandos Statuette
+    { "id": 14882 , "count": [1], "chance": 8}, //Ruby Chalice
+    { "id": 14883 , "count": [1], "chance": 8}  //Guthixian Brazier
+  ]
+},
+
+{ //Revenant Goblin
+  "npcIds": [6716],
+  "drops": [
+    { "id": 13864 , "count": [1], "chance": 9}, //Zuriel hood
+    { "id": 13876 , "count": [1], "chance": 9}, //Morrigan coif
+    { "id": 13896 , "count": [1], "chance": 9}, //Statius helm
+    { "id": 14876 , "count": [1], "chance": 9}, //Ancient Statuette
+    { "id": 14877 , "count": [1], "chance": 9}, //Seren Statuette
+    { "id": 14878 , "count": [1], "chance": 9}, //Armadyl Statuette
+    { "id": 14879 , "count": [1], "chance": 8}, //Zamorak Statuette
+    { "id": 14880 , "count": [1], "chance": 8}, //Saradomin Statuette
+    { "id": 14881 , "count": [1], "chance": 8}, //Bandos Statuette
+    { "id": 14882 , "count": [1], "chance": 8}, //Ruby Chalice
+    { "id": 14883 , "count": [1], "chance": 8}  //Guthixian Brazier
+  ]
+},
+
+{ //Revenant Impling
+  "npcIds": [6715],
+  "drops": [
+    { "id": 14876 , "count": [1], "chance": 10}, //Ancient Statuette
+    { "id": 14877 , "count": [1], "chance": 10}, //Seren Statuette
+    { "id": 14878 , "count": [1], "chance": 10}, //Armadyl Statuette
+    { "id": 14879 , "count": [1], "chance": 10}, //Zamorak Statuette
+    { "id": 14880 , "count": [1], "chance": 10}, //Saradomin Statuette
+    { "id": 14881 , "count": [1], "chance": 9}, //Bandos Statuette
+    { "id": 14882 , "count": [1], "chance": 8}, //Ruby Chalice
+    { "id": 14883 , "count": [1], "chance": 8}  //Guthixian Brazier
+  ]
+},
+
+{ //Scorpia
+  "npcIds": [2001],
+  "drops": [
+    { "id": 15259 , "count": [1], "chance": 7}, //dragon pick
+    { "id": 11924 , "count": [1], "chance": 6}, //Malediction ward
+    { "id": 11926 , "count": [1], "chance": 6}, //Odium ward
+    { "id": 7158 , "count": [1], "chance": 6}, //dragon 2h
+    { "id": 20081 , "count": [1], "chance": 8}, //pet
+    { "id": 219782 , "count": [1], "chance": 5} //elite clue
+  ]
+},
+
+{ //Skeletal Wyvern
+  "npcIds": [3071],
+  "drops": [
+    { "id": 6812 , "count": [1], "chance": 0},
+    { "id": 20564 , "count": [1], "chance": 8}, //Ancient Wyvern Shield
+    { "id": 222002 , "count": [1], "chance": 8}, //Dragonfire Ward
+    { "id": 212542 , "count": [1], "chance": 6} //hard clue
+  ]
+},
+
+{ //Spiritual, Mage
+    "npcIds": [6221, 6231, 6257, 6278],
+  "drops": [
+    { "id": 220517 , "count": [1], "chance": 7},
+    { "id": 220520 , "count": [1], "chance": 7},
+    { "id": 220595 , "count": [1], "chance": 7},
+    { "id": 6914 , "count": [1], "chance": 7},
+    { "id": 6889 , "count": [1], "chance": 7},
+    { "id": 11732 , "count": [1], "chance": 5},
+    { "id": 560 , "count": [50], "chance": 2},
+    { "id": 561 , "count": [50], "chance": 2},
+    { "id": 562 , "count": [50], "chance": 2},
+    { "id": 563 , "count": [50], "chance": 2},
+    { "id": 564 , "count": [50], "chance": 2},
+    { "id": 565 , "count": [50], "chance": 2},
+    { "id": 566 , "count": [50], "chance": 2},
+    { "id": 212542 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Steel Dragons
+  "npcIds": [1592],
+  "drops": [
+    { "id": 2354 , "count": [5], "chance": 0},
+    { "id": 537 , "count": [1], "chance": 0},
+    { "id": 1149 , "count": [1], "chance": 7},
+    { "id": 4087 , "count": [1], "chance": 7},
+    { "id": 4585 , "count": [1], "chance": 7},
+    { "id": 1187 , "count": [1], "chance": 6},
+    { "id": 1215 , "count": [1], "chance": 6},
+    { "id": 1377 , "count": [1], "chance": 6},
+    { "id": 11286 , "count": [1], "chance": 12},
+    { "id": 212542 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Thermonuclear Smoke Devil
+  "npcIds": [499],
+  "drops": [
+    { "id": 18897 , "count": [1], "chance": 6}, //occult
+    { "id": 221028 , "count": [1], "chance": 6}, //dragon harpoon
+    { "id": 213233 , "count": [1], "chance": 6}, //smouldering stone
+    { "id": 20089 , "count": [1], "chance": 12}, //pet
+    { "id": 12158 , "count": [150], "chance": 3}, //Gold Charm
+    { "id": 12160 , "count": [150], "chance": 3}, //Crimson Charm
+    { "id": 12159 , "count": [150], "chance": 3}, //Green Charm
+    { "id": 12163 , "count": [150], "chance": 3}, //Blue Charm
+    { "id": 219782 , "count": [1], "chance": 6} //elite clue
+  ]
+},
+
+{ //Tormented Demon
+  "npcIds": [8349],
+  "drops": [
+    { "id": 15501 , "count": [1], "chance": 12}, //elite mystery box
+    { "id": 6199 , "count": [1], "chance": 10}, //mystery box
+    { "id": 995 , "count": [10000000], "chance": 8}, //10m coins
+    { "id": 2677 , "count": [1], "chance": 6}, //500 Paepoints
+    { "id": 4562 , "count": [1], "chance": 4}, //rare candy
+    { "id": 995 , "count": [1000000], "chance": 5}, //1m coins
+    { "id": 989 , "count": [1], "chance": 1}, //crystal key
+    { "id": 219833 , "count": [1], "chance": 4}, //easy clue
+    { "id": 212021 , "count": [1], "chance": 4}, //medium clue
+    { "id": 212542 , "count": [1], "chance": 4}, //hard clue
+    { "id": 219782 , "count": [1], "chance": 5}, //elite clue
+    //{ "id": 220526 , "count": [1], "chance": 9}, //bloody key
+    { "id": 11992 , "count": [1], "chance": 8} //pet
+  ]
+},
+
+{ //Turoth
+  "npcIds": [1626],
+  "drops": [
+    { "id": 13290 , "count": [1], "chance": 6},
+    { "id": 4158 , "count": [1], "chance": 6},
+    { "id": 208 , "count": [5], "chance": 2},
+    { "id": 210 , "count": [5], "chance": 2},
+    { "id": 212 , "count": [5], "chance": 2},
+    { "id": 214 , "count": [5], "chance": 2},
+    { "id": 203239 , "count": [1], "chance": 6},
+    { "id": 212021 , "count": [1], "chance": 6}
+  ]
+},
+
+{ //Venenatis
+  "npcIds": [2000],
+  "drops": [
+    { "id": 15259 , "count": [1], "chance": 7}, //dragon pick
+    { "id": 14499 , "count": [1], "chance": 6}, //dagonhai hat
+    { "id": 14497 , "count": [1], "chance": 6}, //dagonhai top
+    { "id": 14501 , "count": [1], "chance": 6}, //dagonhai bottom
+    { "id": 7158 , "count": [1], "chance": 6}, //dragon 2h
+    { "id": 20083 , "count": [1], "chance": 8}, //pet
+    { "id": 219782 , "count": [1], "chance": 5} //elite clue
+  ]
+},
+
+{ //Vet'ion
+  "npcIds": [2006],
+  "drops": [
+    { "id": 15259 , "count": [1], "chance": 7}, //dragon pick
+    { "id": 12601 , "count": [1], "chance": 6}, //ring of the gods
+    { "id": 7158 , "count": [1], "chance": 6}, //dragon 2h
+    { "id": 20079 , "count": [1], "chance": 8}, //pet
+    { "id": 219782 , "count": [1], "chance": 5} //elite clue
+  ]
+},
+
+  { //Vorkath
+    "npcIds": [22061],
+    "drops": [
+      { "id": 222124 , "count": [3], "chance": 0}, //Superior Dragon Bones
+      { "id": 221880 , "count": [100], "chance": 3}, //Wrath Rune
+      { "id": 221326 , "count": [100], "chance": 3}, //Amethyst Arrow
+      { "id": 213442 , "count": [100], "chance": 3}, //Anglerfish
+      { "id": 1746 , "count": [50], "chance": 2}, //Blue D-Leather
+      { "id": 2506 , "count": [50], "chance": 2}, //Blue D-Leather
+      { "id": 2508 , "count": [50], "chance": 2}, //Red D-Leather
+      { "id": 2510 , "count": [50], "chance": 2}, //Black D-Leather
+      { "id": 537 , "count": [50], "chance": 2}, //Dragon Bones
+      { "id": 14876 , "count": [1], "chance": 10}, //Ancient Statuette
+      { "id": 14877 , "count": [1], "chance": 10}, //Seren Statuette
+      { "id": 14878 , "count": [1], "chance": 10}, //Armadyl Statuette
+      { "id": 14879 , "count": [1], "chance": 10}, //Zamorak Statuette
+      { "id": 14880 , "count": [1], "chance": 10}, //Saradomin Statuette
+      { "id": 14881 , "count": [1], "chance": 9}, //Bandos Statuette
+      { "id": 14882 , "count": [1], "chance": 8}, //Ruby Chalice
+      { "id": 14883 , "count": [1], "chance": 8},  //Guthixian Brazier
+      { "id": 20566 , "count": [1], "chance": 7}, //zenyte shard
+      { "id": 4671 , "count": [1], "chance": 8}, //Ice Diamond
+      { "id": 221992 , "count": [1], "chance": 9}, //Pet Vorki
+      { "id": 19868 , "count": [1], "chance": 7}, //Celestial Surge Box
+      { "id": 17275 , "count": [1], "chance": 7}, //Frostbite Dagger
+      { "id": 221907 , "count": [1], "chance": 6}, //Vorkath Head
+      { "id": 219782 , "count": [1], "chance": 5} //elite clue
+    ]
+  },
+
+
+
+
+{ //Wildywyrm
+  "npcIds": [3334],
+  "drops": [
+    { "id": 15501 , "count": [1], "chance": 11}, //elite mystery box
+    { "id": 15259 , "count": [1], "chance": 8}, //dragon pick
+    //{ "id": 220526 , "count": [1], "chance": 8}, //bloody key
+    { "id": 7158 , "count": [1], "chance": 6}, //dragon 2h
+    { "id": 20566 , "count": [1], "chance": 7}, //zenyte shard
+    { "id": 18843 , "count": [1], "chance": 7}, //DHL
+    { "id": 20088 , "count": [1], "chance": 8}, //pet
+    { "id": 219782 , "count": [1], "chance": 5} //elite clue
+  ]
+},
+
+{ //Zulrah
+  "npcIds": [2042,2043,2044],
+  "drops": [
+    { "id": 6571 , "count": [1], "chance": 7}, //uncut onyx
+    { "id": 12926 , "count": [1], "chance": 7}, //toxic blowpipe
+    { "id": 12282 , "count": [1], "chance": 7}, //serpentine helm
+    { "id": 12284 , "count": [1], "chance": 7}, //toxic staff of the dead
+    { "id": 14914 , "count": [1], "chance": 12}, //pet
+    { "id": 14916 , "count": [1], "chance": 12}, //pet
+    { "id": 20086 , "count": [1], "chance": 12}, //pet
+    { "id": 1780 , "count": [1000], "chance": 3}, //Flax
+    { "id": 537 , "count": [150], "chance": 3}, //Dragon Bones
+    { "id": 219782 , "count": [1], "chance": 6} //elite clue
+  ]
+},
+
+  { //Superior Slayer Monsters
+    "npcIds": [22],
+    "drops": [
+      { "id": 200 , "count": [20], "chance": 2},
+      { "id": 202 , "count": [20], "chance": 2},
+      { "id": 204 , "count": [20], "chance": 2},
+      { "id": 206 , "count": [20], "chance": 2},
+      { "id": 208 , "count": [20], "chance": 2},
+      { "id": 210 , "count": [20], "chance": 2},
+      { "id": 212 , "count": [20], "chance": 2},
+      { "id": 214 , "count": [20], "chance": 2},
+      { "id": 216 , "count": [20], "chance": 2},
+      { "id": 218 , "count": [20], "chance": 2},
+      { "id": 220 , "count": [20], "chance": 2},
+      { "id": 2486 , "count": [20], "chance": 2},
+      { "id": 3052 , "count": [20], "chance": 2},
+      { "id": 3050 , "count": [20], "chance": 2},
+      { "id": 7937 , "count": [500], "chance": 2}, //Pure Essence
+      { "id": 19669 , "count": [1], "chance": 7}, //Ring of Vigour
+      { "id": 212849 , "count": [1], "chance": 7}, //Granite Clamp
+      { "id": 219677 , "count": [1], "chance": 7}, //Ancient Shard
+      { "id": 2380 , "count": [1], "chance": 7}, //Dragonfire Crystal
+      { "id": 2381 , "count": [1], "chance": 7}, //Frost Crystal
+      { "id": 2382 , "count": [1], "chance": 7}, //Vampiric Crystal
+      { "id": 2383 , "count": [1], "chance": 7}, //Venomous Crystal
+      { "id": 2707 , "count": [1], "chance": 7}, //Anguish Scroll
+      { "id": 2708 , "count": [1], "chance": 7}, //Torment Scroll
+      { "id": 219833 , "count": [1], "chance": 4}, //Easy Clue
+      { "id": 212021 , "count": [1], "chance": 4}, //Medium Clue
+      { "id": 212542 , "count": [1], "chance": 4}, //Hard Clue
+      { "id": 219782 , "count": [1], "chance": 4}, //Elite Clue
+      { "id": 219835 , "count": [1], "chance": 7} //Master Clue
+    ]
+  },
+
+
+{ //Master Clue
+  "npcIds": [15],
+  "drops": [
+  
+  { "id": 220011 , "count": [1], "chance": 3},
+  { "id": 220014 , "count": [1], "chance": 3},
+  { "id": 223336 , "count": [1], "chance": 3},
+  { "id": 223339 , "count": [1], "chance": 3},
+  { "id": 223342 , "count": [1], "chance": 3},
+  { "id": 223345 , "count": [1], "chance": 3},
+  { "id": 212600 , "count": [1], "chance": 3},
+  { "id": 223242 , "count": [1], "chance": 3},
+  { "id": 10330 , "count": [1], "chance": 3},
+  { "id": 10332 , "count": [1], "chance": 3},
+  { "id": 10334 , "count": [1], "chance": 3},
+  { "id": 10336 , "count": [1], "chance": 3},
+  { "id": 10338 , "count": [1], "chance": 3},
+  { "id": 10340 , "count": [1], "chance": 3},
+  { "id": 10342 , "count": [1], "chance": 3},
+  { "id": 10344 , "count": [1], "chance": 3},
+  { "id": 10346 , "count": [1], "chance": 3},
+  { "id": 10348 , "count": [1], "chance": 3},
+  { "id": 10350 , "count": [1], "chance": 3},
+  { "id": 10352 , "count": [1], "chance": 3},
+  { "id": 212426 , "count": [1], "chance": 3},
+  { "id": 212424 , "count": [1], "chance": 3},
+  { "id": 212422 , "count": [1], "chance": 3},
+  { "id": 212437 , "count": [1], "chance": 3}
+  ]
+},
+
+{ //Elite Clue
+  "npcIds": [16],
+  "drops": [
+  
+  
+			{ "id": 220035 , "count": [1], "chance": 3},
+			{ "id": 220038 , "count": [1], "chance": 3},
+			{ "id": 220041 , "count": [1], "chance": 3},
+			{ "id": 220044 , "count": [1], "chance": 3},
+			{ "id": 220047 , "count": [1], "chance": 3},
+			{ "id": 220050 , "count": [1], "chance": 3},
+			{ "id": 220053 , "count": [1], "chance": 3},
+			{ "id": 220056 , "count": [1], "chance": 3},
+			{ "id": 220059 , "count": [1], "chance": 3},
+			{ "id": 220062 , "count": [1], "chance": 3},
+			{ "id": 220065 , "count": [1], "chance": 3},
+			{ "id": 220068 , "count": [1], "chance": 3},
+			{ "id": 220071 , "count": [1], "chance": 3},
+			{ "id": 220074 , "count": [1], "chance": 3},
+			{ "id": 220077 , "count": [1], "chance": 3},
+			{ "id": 220080 , "count": [1], "chance": 3},
+			{ "id": 220083 , "count": [1], "chance": 3},
+			{ "id": 220086 , "count": [1], "chance": 3},
+			{ "id": 220089 , "count": [1], "chance": 3},
+			{ "id": 220092 , "count": [1], "chance": 3},
+			{ "id": 220095 , "count": [1], "chance": 3},
+			{ "id": 220098 , "count": [1], "chance": 3},
+			{ "id": 220101 , "count": [1], "chance": 3},
+			{ "id": 220104 , "count": [1], "chance": 3},
+			{ "id": 220107 , "count": [1], "chance": 3},
+			{ "id": 220143 , "count": [1], "chance": 3},
+			{ "id": 220146 , "count": [1], "chance": 3},
+			{ "id": 220149 , "count": [1], "chance": 3},
+			{ "id": 220152 , "count": [1], "chance": 3},
+			{ "id": 220155 , "count": [1], "chance": 3},
+			{ "id": 220158 , "count": [1], "chance": 3},
+			{ "id": 220161 , "count": [1], "chance": 3},
+			{ "id": 212363 , "count": [1], "chance": 3},
+			{ "id": 212365 , "count": [1], "chance": 3},
+			{ "id": 212367 , "count": [1], "chance": 3},
+			{ "id": 212369 , "count": [1], "chance": 3},
+			{ "id": 212371 , "count": [1], "chance": 3},
+			{ "id": 223357 , "count": [1], "chance": 3},
+			{ "id": 220005 , "count": [1], "chance": 3},
+			{ "id": 223348 , "count": [1], "chance": 3},
+			{ "id": 220017 , "count": [1], "chance": 3},
+			{ "id": 212381 , "count": [1], "chance": 3},
+			{ "id": 212383 , "count": [1], "chance": 3},
+			{ "id": 212385 , "count": [1], "chance": 3},
+			{ "id": 212387 , "count": [1], "chance": 3},
+			{ "id": 212389 , "count": [1], "chance": 3},
+			{ "id": 212391 , "count": [1], "chance": 3},
+			{ "id": 223351 , "count": [1], "chance": 3}
+  ]
+},
+
+{ //Hard Clue
+  "npcIds": [17],
+  "drops": [
+  
+  			{ "id": 220110 , "count": [1], "chance": 3},
+  			{ "id": 220113 , "count": [1], "chance": 3},
+  			{ "id": 220116 , "count": [1], "chance": 3},
+  			{ "id": 220119 , "count": [1], "chance": 3},
+  			{ "id": 220122 , "count": [1], "chance": 3},
+  			{ "id": 220125 , "count": [1], "chance": 3},
+  			{ "id": 220128 , "count": [1], "chance": 3},
+  			{ "id": 220131 , "count": [1], "chance": 3},
+  			{ "id": 220134 , "count": [1], "chance": 3},
+  			{ "id": 220137 , "count": [1], "chance": 3},
+  			{ "id": 220140 , "count": [1], "chance": 3},
+  			{ "id": 212327 , "count": [1], "chance": 3},
+  			{ "id": 212329 , "count": [1], "chance": 3},
+  			{ "id": 212331 , "count": [1], "chance": 3},
+  			{ "id": 212333 , "count": [1], "chance": 3},
+  			{ "id": 220020 , "count": [1], "chance": 3},
+  			{ "id": 220023 , "count": [1], "chance": 3},
+  			{ "id": 220026 , "count": [1], "chance": 3},
+  			{ "id": 220029 , "count": [1], "chance": 3},
+  			{ "id": 220032 , "count": [1], "chance": 3},
+  			{ "id": 10368 , "count": [1], "chance": 3},
+  			{ "id": 10370 , "count": [1], "chance": 3},
+  			{ "id": 10372 , "count": [1], "chance": 3},
+  			{ "id": 10374 , "count": [1], "chance": 3},
+  			{ "id": 10376 , "count": [1], "chance": 3},
+  			{ "id": 10378 , "count": [1], "chance": 3},
+  			{ "id": 10380 , "count": [1], "chance": 3},
+  			{ "id": 10382 , "count": [1], "chance": 3},
+  			{ "id": 10384 , "count": [1], "chance": 3},
+  			{ "id": 10386 , "count": [1], "chance": 3},
+  			{ "id": 10388 , "count": [1], "chance": 3},
+  			{ "id": 10390 , "count": [1], "chance": 3},
+  			{ "id": 212490 , "count": [1], "chance": 3},
+  			{ "id": 212492 , "count": [1], "chance": 3},
+  			{ "id": 212494 , "count": [1], "chance": 3},
+  			{ "id": 212496 , "count": [1], "chance": 3},
+  			{ "id": 212498 , "count": [1], "chance": 3},
+  			{ "id": 212500 , "count": [1], "chance": 3},
+  			{ "id": 212502 , "count": [1], "chance": 3},
+  			{ "id": 212504 , "count": [1], "chance": 3},
+  			{ "id": 212506 , "count": [1], "chance": 3},
+  			{ "id": 212508 , "count": [1], "chance": 3},
+  			{ "id": 212510 , "count": [1], "chance": 3},
+  			{ "id": 212512 , "count": [1], "chance": 3},
+  			{ "id": 223188 , "count": [1], "chance": 3},
+  			{ "id": 223191 , "count": [1], "chance": 3},
+  			{ "id": 223194 , "count": [1], "chance": 3},
+  			{ "id": 223197 , "count": [1], "chance": 3},
+  			{ "id": 223200 , "count": [1], "chance": 3},
+  			{ "id": 223203 , "count": [1], "chance": 3},
+  			{ "id": 2615 , "count": [1], "chance": 3},
+  			{ "id": 2617 , "count": [1], "chance": 3},
+  			{ "id": 2619 , "count": [1], "chance": 3},
+  			{ "id": 2621 , "count": [1], "chance": 3},
+  			{ "id": 2623 , "count": [1], "chance": 3},
+  			{ "id": 2625 , "count": [1], "chance": 3},
+  			{ "id": 2627 , "count": [1], "chance": 3},
+  			{ "id": 2629 , "count": [1], "chance": 3},
+  			{ "id": 2581 , "count": [1], "chance": 3}
+  ]
+}
+
+
+/*,
+
+{ //Crystalline Rat
+  "npcIds": [23026],
+  "drops": [
+    { "id": 223962 , "count": [25], "chance": 0}, //Crystal shard
+    { "id": 15272 , "count": [2], "chance": 1}, //Rocktail
+    { "id": 15332 , "count": [1], "chance": 2}, //Overload
+    { "id": 6685 , "count": [1], "chance": 2}, //Saradomin Brew
+    { "id": 3024 , "count": [1], "chance": 2}, //Super Restore
+    { "id": 223871 , "count": [1], "chance": 2} //Weapon frame
+  ]
+},
+
+{ //Crystalline Dark Beast
+  "npcIds": [23034],
+  "drops": [
+    { "id": 223962 , "count": [50], "chance": 0}, //Crystal shard
+    { "id": 223871 , "count": [1], "chance": 1}, //Weapon frame
+    { "id": 15332 , "count": [1], "chance": 1}, //Overload
+    { "id": 6685 , "count": [1], "chance": 1}, //Saradomin Brew
+    { "id": 3024 , "count": [1], "chance": 1}, //Super Restore
+    { "id": 223869 , "count": [1], "chance": 2} //Crystal bowstring
+  ]
+},
+
+{ //Crystalline Dragon
+  "npcIds": [23033],
+  "drops": [
+    { "id": 223962 , "count": [75], "chance": 0}, //Crystal shard
+    { "id": 223871 , "count": [1], "chance": 1}, //Weapon frame
+    { "id": 15332 , "count": [1], "chance": 1}, //Overload
+    { "id": 6685 , "count": [1], "chance": 1}, //Saradomin Brew
+    { "id": 3024 , "count": [1], "chance": 1}, //Super Restore
+    { "id": 223868 , "count": [1], "chance": 2}, //Crystal spike
+    { "id": 223870 , "count": [1], "chance": 2} //Crystal Orb
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,
+
+{ //Zerker bot and Zerker hybrid
+  "npcIds": [9, 11, 8, 10],
+  "drops": [
+    { "id": 4151 , "count": [1], "chance": 3}, //Whip
+    { "id": 13899 , "count": [1], "chance": 12}, //VLS
+    { "id": 13902 , "count": [1], "chance": 12}, //Statius Warhammer
+    { "id": 13867 , "count": [1], "chance": 12}, //Zuriel's Staff
+    { "id": 13879 , "count": [5], "chance": 10}, //Morrigan's Javelin
+    { "id": 14876 , "count": [1], "chance": 12}, //Ancient Statuette
+    { "id": 14877 , "count": [1], "chance": 11}, //Seren Statuette
+    { "id": 14878 , "count": [1], "chance": 10}, //Armadyl Statuette
+    { "id": 14879 , "count": [1], "chance": 9}, //Zamorak Statuette
+    { "id": 14880 , "count": [1], "chance": 8}, //Saradomin Statuette
+    { "id": 14881 , "count": [1], "chance": 7}, //Bandos Statuette
+    { "id": 14882 , "count": [1], "chance": 6}, //Ruby Chalice
+    { "id": 14883 , "count": [1], "chance": 4}, //Guthixian Brazier
+    { "id": 995 , "count": [1000000], "chance": 3}, //Coins
+    { "id": 4562 , "count": [1], "chance": 2}, //Rare Candy
+    { "id": 989 , "count": [1], "chance": 1}, //Crystal Key
+    { "id": 11694 , "count": [1], "chance": 8} //AGS
+  ]
+},
+
+
+{ //Skeleton (Halloween 2021)
+  "npcIds": [3151],
+  "drops": [
+    { "id": 4560 , "count": [5], "chance": 0} //Skeleton Candy
+    
+  ]
+}
+
+*/
+
+
+
+/*{ //Corporeal Beast (event)
+  "npcIds": [289],
+  "drops": [
+    { "id": 13734 , "count": [1], "chance": 5},
+    { "id": 13754 , "count": [1], "chance": 5},
+    { "id": 13752 , "count": [1], "chance": 6},
+    { "id": 13746 , "count": [1], "chance": 6},
+    { "id": 13750 , "count": [1], "chance": 7},
+    { "id": 13748 , "count": [1], "chance": 7},
+    { "id": 12001 , "count": [1], "chance": 12}
+  ]
+},*/
+
+
+
+
+]

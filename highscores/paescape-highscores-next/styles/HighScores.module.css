@@ -1,0 +1,889 @@
+/*
+
+
+
+*/
+
+.hiscoretitlebground,
+.titleBackground {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 4px;
+    width: 759px;
+    height: 130px;
+    background-image: url(../public/img/hiscores_title.gif);
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.hiscoretitleframe {
+    position: relative;
+    width: 165px;
+    top: 20px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-align: center;
+    border: 2px solid #382418;
+    background-color: black;
+    margin: 15px auto 0;
+}
+
+.hiscorebutton {
+    height: 98px;
+    width: 152px;
+    text-align: center;
+    margin: 1px 1px 1px 26px;
+    display: block;
+    color: #D9C27E;
+    background-image: url(../public/img/search_box.gif);
+    background-repeat: no-repeat;
+    padding: 2px 3px;
+    line-height: 30px;
+}
+
+.hiscoremediumbutton {
+    height: 124px;
+    width: 152px;
+    text-align: center;
+    margin: 1px 1px 1px 26px;
+    display: block;
+    color: #D9C27E;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-image: url(../public/img/friends_hiscores.gif);
+    padding: 2px 3px;
+    line-height: 12px;
+}
+
+.hiscorelargebutton {
+    height: 126px;
+    width: 152px;
+    text-align: center;
+    margin: 1px 1px 1px 26px;
+    display: block;
+    color: #D9C27E;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-image: url(../public/img/compare_users.gif);
+    padding: 2px 3px;
+    line-height: 35px;
+}
+
+.hiscorecomparebutton {
+    height: 79px;
+    width: 444px;
+    text-align: center;
+    margin: 6px;
+    color: #D9C27E;
+    background: url(../public/img/compare_button_wide.gif) no-repeat top center;
+    padding: 5px 3px;
+    line-height: 20px;
+}
+
+.hiscorelinkbutton {
+    height: 79px;
+    width: 152px;
+    text-align: center;
+    margin: 6px;
+    padding: 5px 3px;
+    line-height: 20px;
+    background: url(../public/img/compare_button_small.gif) no-repeat top center;
+}
+
+.raisepage {
+    position: relative;
+    top: -70px;
+}
+
+img.miniimg {
+    height: 16px;
+    width: 16px;
+    vertical-align: auto;
+}
+
+.forcelighttext {
+    color: #D9C27E;
+}
+
+div.hiscorecomparebutton b {
+    color: #D9C27E;
+}
+
+div.hiscorelinkbutton b {
+    color: #D9C27E;
+    line-height: 14px;
+}
+
+div.widescroll-content a {
+    color: #000000;
+    font-weight: bold;
+}
+
+div.widescroll-content td {
+    color: #000000;
+}
+
+div.banner {
+    width: 175px;
+    position: relative;
+    background-image: url(../public/img/banner_middle2.gif);
+    background-position: left;
+    background-repeat: repeat-y;
+}
+
+div.banner-content {
+    margin: 0 0 0 9px;
+    z-index: 100;
+    padding: 0px 20px;
+    color: #000000;
+    position: relative;
+}
+
+img.banner-top {
+    background-position: center;
+    position: relative;
+    top: 15px;
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+
+img.banner-bottom {
+    background-position: center;
+    position: relative;
+    padding: 0;
+    margin: 0;
+    top: 0px;
+    display: block;
+}
+
+div.banner-content a {
+    color: #D9C27E;
+}
+
+div.mainscroll-bgimg {
+    width: 379px;
+    position: relative;
+    margin: 0 -5px;
+    background-image: url(../public/img/scroll_middle.gif);
+    background-repeat: repeat-y;
+}
+
+div.mainscroll-bg {
+    width: 372px;
+    background-color: #C2AB79;
+    margin-left: 5px;
+}
+
+div.mainscroll-content {
+    padding: 25px 0px;
+    color: #000000;
+    position: relative;
+    margin: 0 0px;
+}
+
+div.mainscroll-content td {
+    color: black;
+}
+
+div.mainscroll-content a {
+    color: #000000;
+}
+
+img.mainscroll-top {
+    position: relative;
+    top: 25px;
+    padding: 0;
+    margin: 0;
+    z-index: 100;
+    display: block;
+}
+
+img.mainscroll-bottom {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    top: -25px;
+    display: block;
+}
+
+.twisted-blurb {
+    background: #000;
+    border: 2px solid #567330;
+    margin: 15px auto;
+    padding: 5px;
+    width: 720px;
+}
+
+/* col1 */
+.col1 {
+    width: 175px;
+}
+
+.headerCategory {
+    background: url(../public/img/banner_top2.gif) no-repeat;
+    width: 186px;
+    height: 90px;
+}
+
+.footerCategory {
+    background: url(../public/img/banner_bottom2.gif) no-repeat;
+    width: 186px;
+    height: 60px;
+}
+
+.contentCategory {
+    background: url(../public/img/banner_middle2.gif) repeat-y;
+    margin: 0;
+    max-width: 157px;
+    max-height: 600px;
+    /* allow scrolling vertically but hide the scroll bar*/
+    -ms-overflow-style: none;
+    overflow-x: hidden;
+    /* Separate values used to cover bugs with Safari and Firefox */
+    overflow-y: -moz-scrollbars-none;
+    overflow-y: scroll;
+}
+
+/*Hide the scroll bar so the ui will look better on Windows*/
+.contentCategory::-webkit-scrollbar {
+    width: 0 !important;
+}
+
+.personal-hiscores__scroll-arrow {
+    background: url(../public/img/banner_middle2.gif) repeat-y;
+    color: transparent;
+    cursor: pointer;
+    display: block;
+    max-width: 157px;
+    overflow: hidden;
+    position: relative;
+    user-select: none;
+}
+
+.personal-hiscores__scroll-arrow::after {
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    content: '';
+    left: 50px;
+    position: absolute;
+    top: 2px;
+}
+
+.personal-hiscores__scroll-arrow--up::after {
+    border-bottom: 10px solid #baa471;
+}
+
+.personal-hiscores__scroll-arrow--down::after {
+    border-top: 10px solid #baa471;
+}
+
+.personal-hiscores__scroll-arrow:hover::after {
+    filter: brightness(1.3);
+}
+
+.personal-hiscores__scroll-arrow--disabled {
+    cursor: not-allowed;
+}
+
+.personal-hiscores__scroll-arrow--disabled::after {
+    filter: opacity(0.3);
+}
+
+.personal-hiscores__scroll-arrow--disabled:hover::after {
+    filter: opacity(0.3);
+}
+
+
+.contentCategory a {
+    position: relative;
+    color: #d9c27e;
+    padding: 3px 0 0 20px;
+    margin-left: 34px;
+    display: block;
+}
+
+.contentCategory a.activity-link {
+    background: url(../public/img/minigame_icon_hs_thumb.png) no-repeat left center;
+}
+
+.contentCategory a:before {
+    height: 18px;
+    width: 18px;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    background: linear-gradient(to right, #3c424d, #333840);
+}
+
+.contentCategory ul {
+    margin: 0px 25px 0px 50px;
+}
+
+.contentCategory li {
+    background: none;
+}
+
+.contentCategory li a {
+    padding-left: 10px;
+}
+
+/* xcol1 */
+/* col2 */
+.col2 {
+    width: 380px;
+    margin: 10px 15px 0px 5px;
+}
+
+.headerHiscores {
+    background: url(../public/img/scroll_top.gif) no-repeat;
+    width: 379px;
+    height: 36px;
+}
+
+.hiscoresHiddenBG {
+    width: 372px;
+    background: #c2ab79;
+    margin-left: 5px;
+}
+
+.contentHiscores {
+    width: 379px;
+    position: relative;
+    background: url(../public/img/scroll_middle.gif) repeat-y;
+    margin: 0 -5px;
+    line-height: 18px;
+    color: #000;
+}
+
+/* th, td {
+    color: #000;
+} */
+
+.contentHiscores a {
+    color: #000;
+}
+
+.footerHiscores {
+    background: url(../public/img/scroll_bottom.gif) no-repeat;
+    width: 379px;
+    height: 36px;
+}
+
+.contentHiscores caption {
+    font-weight: bold;
+    color: #000;
+}
+
+/* xcol2 */
+/* col3 */
+.col3 {
+    width: 155px;
+}
+
+.smallBox {
+    background: url(../public/img/search_box.gif) no-repeat;
+    height: 98px;
+}
+
+.largeBox {
+    background: url(../public/img/compare_users.gif) no-repeat;
+    height: 126px;
+
+}
+
+/* xcol3 */
+/* boxes */
+.smallBox p,
+.largeBox p {
+    padding-top: 5px;
+}
+
+.smallBox,
+.largeBox {
+    width: 152px;
+    text-align: center;
+    color: #d9c27e;
+    margin-bottom: 25px;
+}
+
+.smallBox b,
+.largeBox b {
+    display: block;
+    margin: 5px;
+}
+
+.smallBox input.text,
+.largeBox input.text {
+    width: 100px;
+    margin-bottom: 4px;
+}
+
+/* xboxes */
+/* general */
+.left {
+    text-align: left;
+    margin-right: auto;
+}
+
+.right {
+    text-align: right;
+    margin-left: auto;
+}
+
+.center {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.clear {
+    clear: both;
+}
+
+/* skill icons*/
+.Attack {
+    background: url(../public/img/skill_icon_attack1.gif) no-repeat;
+}
+
+.Defence {
+    background: url(../public/img/skill_icon_defence1.gif) no-repeat;
+}
+
+.Strength {
+    background: url(../public/img/skill_icon_strength1.gif) no-repeat;
+}
+
+.Constitution {
+    background: url(../public/img/skill_icon_constitution1.gif) no-repeat;
+}
+
+.Ranged {
+    background: url(../public/img/skill_icon_ranged1.gif) no-repeat;
+}
+
+.Prayer {
+    background: url(../public/img/skill_icon_prayer1.gif) no-repeat;
+}
+
+.Magic {
+    background: url(../public/img/skill_icon_magic1.gif) no-repeat;
+}
+
+.Cooking {
+    background: url(../public/img/skill_icon_cooking1.gif) no-repeat;
+}
+
+.Woodcutting {
+    background: url(../public/img/skill_icon_woodcutting1.gif) no-repeat;
+}
+
+.Fletching {
+    background: url(../public/img/skill_icon_fletching1.gif) no-repeat;
+}
+
+.Fishing {
+    background: url(../public/img/skill_icon_fishing1.gif) no-repeat;
+}
+
+.Firemaking {
+    background: url(../public/img/skill_icon_firemaking1.gif) no-repeat;
+}
+
+.Crafting {
+    background: url(../public/img/skill_icon_crafting1.gif) no-repeat;
+}
+
+.Smithing {
+    background: url(../public/img/skill_icon_smithing1.gif) no-repeat;
+}
+
+.Mining {
+    background: url(../public/img/skill_icon_mining1.gif) no-repeat;
+}
+
+.Herblore {
+    background: url(../public/img/skill_icon_herblore1.gif) no-repeat;
+}
+
+.Agility {
+    background: url(../public/img/skill_icon_agility1.gif) no-repeat;
+}
+
+.Thieving {
+    background: url(../public/img/skill_icon_thieving1.gif) no-repeat;
+}
+
+.Slayer {
+    background: url(../public/img/skill_icon_slayer1.gif) no-repeat;
+}
+
+.Farming {
+    background: url(../public/img/skill_icon_farming1.gif) no-repeat;
+}
+
+.Runecrafting {
+    background: url(../public/img/skill_icon_runecrafting1.gif) no-repeat;
+}
+
+.Hunter {
+    background: url(../public/img/skill_icon_hunter1.gif) no-repeat;
+}
+
+.Construction {
+    /* Skiller */
+    background: url(../public/img/skill_icon_construction1.gif) no-repeat;
+}
+
+.Dungeoneering {
+    background: url(../public/img/skill_icon_dungeoneering1.gif) no-repeat;
+}
+
+.Summoning {
+    background: url(../public/img/skill_icon_summoning1.gif) no-repeat;
+}
+
+.Skiller {
+    background: url(../public/img/skill_icon_skiller1.gif) no-repeat;
+}
+
+/* stats icons */
+.total_xp:before {
+    content: url('../public/img/game_icon_totalexperience.png')
+}
+.bonus_prestiges:before {
+    content: url('../public/img/game_icon_bonusprestiges.png')
+}
+.total_boss_kills:before {
+    content: url('../public/img/game_icon_totalbosskills.png')
+}
+.completed_clogs:before {
+    content: url('../public/img/game_icon_completedclogs.png')
+}
+.achievement_points:before {
+    content: url('../public/img/game_icon_achievementpoints.png')
+}
+.crystal_chests:before {
+    content: url('../public/img/game_icon_crystalchests.png')
+}
+.rare_candies:before {
+    content: url('../public/img/game_icon_rarecandyused.png')
+}
+.slayer_tasks:before {
+    content: url('../public/img/game_icon_totalslayertasks.png')
+}
+.skiller_tasks:before {
+    content: url('../public/img/game_icon_totalskillertasks.png')
+}
+.wilderness_kills:before {
+    content: url('../public/img/game_icon_wildernesskills.png')
+}
+.clue_scrolls_easy:before {
+    content: url('../public/img/game_icon_cluescrollseasy.png')
+}
+.clue_scrolls_medium:before {
+    content: url('../public/img/game_icon_cluescrollsmedium.png')
+}
+.clue_scrolls_hard:before {
+    content: url('../public/img/game_icon_cluescrollshard.png')
+}
+.clue_scrolls_elite:before {
+    content: url('../public/img/game_icon_cluescrollselite.png')
+}
+.clue_scrolls_master:before {
+    content: url('../public/img/game_icon_cluescrollsmaster.png')
+}
+
+
+/* raid/boss icons */
+.tob:before {
+    content: url('../public/img/game_icon_theatreofblood.png');
+}
+.cox:before {
+    content: url('../public/img/game_icon_chambersofxeric.png');
+}
+.barrows:before {
+    content: url('../public/img/game_icon_barrowsraid.png');
+}
+.gwdraid:before {
+    content: url('../public/img/game_icon_gwdraid.png');
+}
+.chaos:before {
+    content: url('../public/img/game_icon_chaosraid.png');
+}
+.dagannoth_supreme:before {
+    content: url('../public/img/game_icon_dagannothsupreme.png')
+}
+.dagannoth_prime:before {
+    content: url('../public/img/game_icon_dagannothprime.png')
+}
+.dagannoth_rex:before {
+    content: url('../public/img/game_icon_dagannothrex.png')
+}
+.king_black_dragon:before {
+    content: url('../public/img/game_icon_kingblackdragon.png')
+}
+.cerberus:before {
+    content: url('../public/img/game_icon_cerberus.png')
+}
+.kril_tsutsaroth:before {
+    content: url('../public/img/game_icon_kriltsutsaroth.png')
+}
+.kreearra:before {
+    content: url('../public/img/game_icon_kreearra.png')
+}
+.commander_zilyana:before {
+    content: url('../public/img/game_icon_commanderzilyana.png')
+}
+.general_graardor:before {
+    content: url('../public/img/game_icon_generalgraardor.png')
+}
+.corporeal_beast:before {
+    content: url('../public/img/game_icon_corporealbeast.png')
+}
+.abyssal_sire:before {
+    content: url('../public/img/game_icon_abyssalsire.png')
+}
+.tormented_demon:before {
+    content: url('../public/img/game_icon_tormenteddemon.png')
+}
+.kalphite_queen:before {
+    content: url('../public/img/game_icon_kalphitequeen.png')
+}
+.glacio:before {
+    content: url('../public/img/game_icon_glacio.png')
+}
+.wildywyrm:before {
+    content: url('../public/img/game_icon_wildywyrm.png')
+}
+.giant_mole:before {
+    content: url('../public/img/game_icon_giantmole.png')
+}
+.thermonuclear_smoke_devil:before {
+    content: url('../public/img/game_icon_thermonuclearsmokedevil.png')
+}
+.nightmare:before {
+    content: url('../public/img/game_icon_nightmare.png')
+}
+.venenatis:before {
+    content: url('../public/img/game_icon_venenatis.png')
+}
+.chaos_elemental:before {
+    content: url('../public/img/game_icon_chaoselemental.png')
+}
+.scorpia:before {
+    content: url('../public/img/game_icon_scorpia.png')
+}
+.vetion:before {
+    content: url('../public/img/game_icon_vetion.png')
+}
+.callisto:before {
+    content: url('../public/img/game_icon_callisto.png')
+}
+.revenant_dark_beast:before {
+    content: url('../public/img/game_icon_revenantdarkbeast.png')
+}
+.revenant_ork:before {
+    content: url('../public/img/game_icon_revenantork.png')
+}
+.revenant_werewolf:before {
+    content: url('../public/img/game_icon_revenantwerewolf.png')
+}
+.revenant_goblin:before {
+    content: url('../public/img/game_icon_revenantgoblin.png')
+}
+.revenant_impling:before {
+    content: url('../public/img/game_icon_revenantimpling.png')
+}
+.zulrah:before {
+    content: url('../public/img/game_icon_zulrah.png')
+}
+.vorkath:before {
+    content: url('../public/img/game_icon_vorkath.png')
+}
+.superior_slayer:before {
+    content: url('../public/img/skill_icon_slayer1.gif')
+}
+.tztok_jad:before {
+    content: url('../public/img/game_icon_tztokjad.png')
+}
+
+.hiscoreLoginLink {
+    display: block;
+    margin-top: 10px;
+}
+
+.hiscoreLoginForm {
+    padding: 5px;
+}
+
+.hiscoreLoginForm input,
+.hiscoreLoginForm button {
+    width: 100px;
+    margin-bottom: 4px;
+}
+
+.hiscoreLoginForm label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+
+.hiscoreLoginForm .PasswordLink {
+    display: block;
+    font-size: 11px;
+}
+
+.loginPrompt,
+.linkToFriends {
+    padding-top: 5px;
+    display: block
+}
+
+.error {
+    color: red;
+    font-size: 1.2em;
+    text-align: center;
+    border: 1px solid red;
+    border-radius: 12px;
+    box-shadow: 0 0 4px red;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.ironman-nav {
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.ironman-nav__option {
+    background: black;
+    border: 2px solid #382418;
+    display: inline-block;
+    padding: 7px 15px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.ironman-nav__option--current {
+    color: #fff;
+    font-weight: 700;
+}
+
+.personal-hiscores {
+    display: table;
+    position: relative;
+    width: 600px;
+}
+
+.personal-hiscores__side-banner {
+    display: table-cell;
+    padding: 0 4px;
+    text-align: left;
+    vertical-align: top;
+    width: 175px;
+}
+
+.personal-hiscores__table {
+    display: table-cell;
+    vertical-align: top;
+}
+
+.personal-hiscores__table table {
+    /*Specificity class*/
+    margin-right: 30px;
+    border-spacing: 0;
+}
+
+.personal-hiscores__table td {
+    /*Specificity class*/
+    position: relative;
+    padding: 1.5px;
+}
+
+.personal-hiscores__pagination {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 30px;
+}
+
+.personal-hiscores__no-rank {
+    font-weight: bold;
+    margin-bottom: 0;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.personal-hiscores__row--dead {
+    text-decoration: line-through;
+}
+
+.personal-hiscores__row--type-highlight {
+    background: rgba(144, 192, 64, .4);
+    font-weight: 600;
+}
+
+.hiscore-death {
+    cursor: help;
+    height: 15px;
+    right: 0;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 15px;
+}
+
+/* Dulicated styles from _os_hiscores.scss, don't forget to adjust styles in both files */
+.ironman-nav__group {
+    position: relative;
+    display: flex;
+}
+
+.ironman-nav__group:hover .ironman-nav__submenu {
+    display: flex;
+}
+
+.ironman-nav__option--parent {
+    cursor: pointer;
+}
+
+.ironman-nav__option--parent::after {
+    content: "";
+    clip-path: polygon(0% 0%, 50% 100%, 100% 0%);
+    background: currentColor;
+    display: inline-block;
+    height: 6px;
+    width: 6px;
+    margin-left: 1px;
+}
+
+.ironman-nav__submenu {
+    display: none;
+    flex-direction: column;
+    padding: 2px 0;
+    position: absolute;
+    left: 0;
+    top: 100%;
+    z-index: 10;
+}
+
+.ironman-nav__submenu .ironman-nav__option {
+    white-space: nowrap;
+    text-align: left;
+}
+
+.ironman-nav__submenu .ironman-nav__option+.ironman-nav__option {
+    border-top: none;
+}
