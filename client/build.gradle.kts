@@ -1,4 +1,3 @@
-import org.ajoberstar.grgit.Grgit
 import proguard.gradle.ProGuardTask
 
 group = "online.paescape"
@@ -6,16 +5,8 @@ version = "0.0.1"
 
 plugins {
     application
-    id("org.ajoberstar.grgit") version "5.2.2"
 }
 
-val localGitCommit: String = try {
-    val projectPath = rootProject.projectDir.absolutePath
-    Grgit.open(mapOf("dir" to projectPath)).head().id
-} catch (_: Exception) {
-    "n/a"
-}
-project.extra["gitCommit"] = localGitCommit
 project.extra["rootPath"] = rootDir.toString().replace("\\", "/")
 
 buildscript {
@@ -25,12 +16,9 @@ buildscript {
         maven(url = "https://raw.githubusercontent.com/jbx5/devious-hosting/master")
     }
     dependencies {
-        classpath("org.ajoberstar.grgit:grgit-core:4.1.0")
         classpath("com.guardsquare:proguard-gradle:7.3.0")
     }
 }
-
-apply(plugin = "org.ajoberstar.grgit")
 
 java {
     setSourceCompatibility(JavaVersion.VERSION_11.toString())

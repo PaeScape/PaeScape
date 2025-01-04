@@ -9,7 +9,7 @@ import java.util.Arrays;
 import java.util.logging.Level;
 
 public class PasswordUtils {
-    private static final String salt = "";
+    private static final String salt = "voidstarisgreat!";
     private static final int cost = 13;
 
     public static byte[] hash(String password) {
